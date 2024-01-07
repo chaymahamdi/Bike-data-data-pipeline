@@ -24,18 +24,27 @@ Before getting started, make sure you have the following technologies installed 
    ```bash
    $ bin/zookeeper-server-start.sh config/zookeeper.properties
 2. Start the Kafka broker service:
+   
+   ```bash
    $ bin/kafka-server-start.sh config/server.properties
 3. Restart Elasticsearch and check status:
+   ```bash
    $ sudo systemctl restart elasticsearch
+   ```bash
    $ sudo systemctl status elasticsearch
 4. Restart Kibana and check status:
+   ```bash
    $ sudo systemctl restart kibana
-   $ sudo systemctl status kibana
-5. Start the Kafka producer and consumer:
+   ```bash
+   $ sudo systemctl status kibana:
+6. Start the Kafka producer and consumer:
+   ```bash
    $ python3 producer.py   # Start the Kafka producer
+   ```bash
    $ python3 consumer_elastic_kibana.py   # Start the consumer for Elasticsearch and Kibana
+   ```bash
    $ ./command.sh   # Start the Kafka consumer
-6. Check if data is storing in the Elasticsearch index "stations":
+8. Check if data is storing in the Elasticsearch index "stations":
    Go to the Kibana sidebar.
    Click on "Index Management" to check if data is storing in the Elasticsearch index "stations".
 
