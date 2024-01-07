@@ -1,0 +1,971 @@
+:: loading settings :: url = jar:file:/opt/spark/jars/ivy-2.5.1.jar!/org/apache/ivy/core/settings/ivysettings.xml
+reading data
+{'numbers': 55, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 6, 'available_bikes': 9, 'address': '2 RUE GATIEN ARNOULT', 'status': 'OPEN', 'position': {'lat': 43.609022, 'lng': 1.441105}, 'last_update': '2024-01-04 16:38:34'}
+reading data
+{'numbers': 59, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 19, 'available_bikes': 1, 'address': 'Bežigrad 11', 'status': 'OPEN', 'position': {'lat': 46.063797, 'lng': 14.506854}, 'last_update': '2024-01-04 16:36:14'}
+reading data
+{'numbers': 2010, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 22, 'available_bike_stands': 9, 'available_bikes': 13, 'address': 'ANGLE ALLEE ANDRE MURE ET QUAI ANTOINE RIBOUD', 'status': 'OPEN', 'position': {'lat': 45.743317, 'lng': 4.815747}, 'last_update': '2024-01-04 16:35:13'}
+reading data
+{'numbers': 42, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 18, 'available_bikes': 12, 'address': 'Smithfield North', 'status': 'OPEN', 'position': {'lat': 53.349562, 'lng': -6.278198}, 'last_update': '2024-01-04 16:34:32'}
+reading data
+{'numbers': 5015, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 19, 'available_bike_stands': 10, 'available_bikes': 9, 'address': 'Devant le n°41 rue de la Quarantaine', 'status': 'OPEN', 'position': {'lat': 45.75197, 'lng': 4.821662}, 'last_update': '2024-01-04 16:37:06'}
+reading data
+{'numbers': 10, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 40, 'available_bike_stands': 18, 'available_bikes': 22, 'address': '12, mail Pablo Picasso', 'status': 'OPEN', 'position': {'lat': 47.216207, 'lng': -1.533796}, 'last_update': '2024-01-04 16:33:29'}
+reading data
+{'numbers': 231, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 8, 'available_bikes': 11, 'address': 'KERSBEEK - AV KERSBEEK 107 / KERSBEEKLAAN 107', 'status': 'OPEN', 'position': {'lat': 50.805801, 'lng': 4.3194}, 'last_update': '2024-01-04 16:32:56'}
+reading data
+{'numbers': 198, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 17, 'available_bikes': 3, 'address': "Fontanars dels Aforins - Vall d'Uixó", 'status': 'OPEN', 'position': {'lat': 39.4608480566945, 'lng': -0.3954071515343}, 'last_update': '2024-01-04 16:39:15'}
+reading data
+{'numbers': 32001, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 17, 'available_bike_stands': 11, 'available_bikes': 6, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.846034, 'lng': 4.832409}, 'last_update': '2024-01-04 16:34:24'}
+reading data
+{'numbers': 30, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 17, 'available_bikes': 3, 'address': 'Parnell Square North', 'status': 'OPEN', 'position': {'lat': 53.3537415547453, 'lng': -6.26530144781526}, 'last_update': '2024-01-04 16:36:59'}
+reading data
+{'numbers': 6004, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 9, 'address': 'Angle rue Vendôme', 'status': 'OPEN', 'position': {'lat': 45.768896, 'lng': 4.844845}, 'last_update': '2024-01-04 16:39:28'}
+reading data
+{'numbers': 50019, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 16, 'available_bike_stands': 12, 'available_bikes': 4, 'address': 'RUE DES LILAS ANGLE BOULEVARD DU PORT 95000 CERGY', 'status': 'OPEN', 'position': {'lat': 49.034625, 'lng': 2.067596}, 'last_update': '2024-01-04 16:33:31'}
+reading data
+{'numbers': 30, 'contract_name': 'nancy', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 9, 'available_bikes': 6, 'address': 'au milieu du boulevard des Nations \xa0à Vandoeuvre dans le prolongement de l’arrêt de bus Nations devant le centre commercial', 'status': 'OPEN', 'position': {'lat': 48.662356, 'lng': 6.173442}, 'last_update': '2024-01-04 16:38:55'}
+reading data
+{'numbers': 54901, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 12, 'available_bikes': 3, 'address': 'Place du Rendez-Vous côté avenue Louis Lecoin - 95490 VAUREAL', 'status': 'OPEN', 'position': {'lat': 49.0329335916808, 'lng': 2.02031242929915}, 'last_update': '2024-01-04 16:39:33'}
+reading data
+{'numbers': 3, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 16, 'available_bikes': 3, 'address': 'Plaza del Musico López Chavarri', 'status': 'OPEN', 'position': {'lat': 39.4768031153802, 'lng': -0.38037911504075}, 'last_update': '2024-01-04 16:37:38'}
+reading data
+{'numbers': 54, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 33, 'available_bike_stands': 18, 'available_bikes': 15, 'address': 'Clonmel Street', 'status': 'OPEN', 'position': {'lat': 53.336021, 'lng': -6.26298}, 'last_update': '2024-01-04 16:36:18'}
+reading data
+{'numbers': 7035, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 40, 'available_bike_stands': 9, 'available_bikes': 31, 'address': 'Angle rue de Marseille', 'status': 'OPEN', 'position': {'lat': 45.750945, 'lng': 4.83927}, 'last_update': '2024-01-04 16:32:52'}
+reading data
+{'numbers': 53, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 9, 'address': '- LUDWIG VAN BEETHOVEN - RUE LUDWIG VAN BEETHOVEN ( DEVANT N° 45 )', 'status': 'OPEN', 'position': {'lat': 49.59, 'lng': 6.1172}, 'last_update': '2024-01-04 16:38:24'}
+reading data
+{'numbers': 10120, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 9, 'available_bikes': 5, 'address': '41 AV. ROGER SALENGRO (VILLEURBANNE)', 'status': 'OPEN', 'position': {'lat': 45.776239, 'lng': 4.871634}, 'last_update': '2024-01-04 16:39:12'}
+reading data
+{'numbers': 5016, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 13, 'available_bike_stands': 4, 'available_bikes': 9, 'address': 'Devant la mairie du 5°', 'status': 'OPEN', 'position': {'lat': 45.756204, 'lng': 4.802727}, 'last_update': '2024-01-04 16:35:17'}
+reading data
+{'numbers': 56105, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 12, 'available_bikes': 6, 'address': 'RUE DU BAS NOYER DEVANT CENTRE COMMERCIAL ART DE VIVRE - ERAGNY', 'status': 'OPEN', 'position': {'lat': 49.03223, 'lng': 2.101656}, 'last_update': '2024-01-04 16:38:54'}
+reading data
+{'numbers': 108, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 35, 'available_bike_stands': 15, 'available_bikes': 20, 'address': 'Avondale Road', 'status': 'OPEN', 'position': {'lat': 53.359405, 'lng': -6.276142}, 'last_update': '2024-01-04 16:38:42'}
+reading data
+{'numbers': 195, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 18, 'available_bikes': 0, 'address': 'FACE 15 RUE PIERRE LAROUSSE', 'status': 'OPEN', 'position': {'lat': 43.597355, 'lng': 1.459063}, 'last_update': '2024-01-04 16:34:56'}
+reading data
+{'numbers': 29, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 21, 'available_bike_stands': 15, 'available_bikes': 6, 'address': '31 RUE VALADE', 'status': 'OPEN', 'position': {'lat': 43.605031, 'lng': 1.437386}, 'last_update': '2024-01-04 16:39:40'}
+reading data
+{'numbers': 233, 'contract_name': 'valence', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 9, 'available_bikes': 6, 'address': 'San Juan Bosco - Santiago Rusiñol', 'status': 'OPEN', 'position': {'lat': 39.497128187401, 'lng': -0.369528093405798}, 'last_update': '2024-01-04 16:33:56'}
+reading data
+{'numbers': 134, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 13, 'available_bikes': 6, 'address': 'Rue Henri Dunant x Rue de Bastogne', 'status': 'OPEN', 'position': {'lat': 49.646906, 'lng': 6.134279}, 'last_update': '2024-01-04 16:36:15'}
+reading data
+{'numbers': 194, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 18, 'available_bikes': 1, 'address': 'CALLE PARQUE DE DOÑANA - Aprox. Calle Corral de los Olmos', 'status': 'OPEN', 'position': {'lat': 37.418586, 'lng': -5.973249}, 'last_update': '2024-01-04 16:35:14'}
+reading data
+{'numbers': 9013, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': 'Angle rue de la Navigation', 'status': 'OPEN', 'position': {'lat': 45.787522, 'lng': 4.814418}, 'last_update': '2024-01-04 16:39:15'}
+reading data
+{'numbers': 126, 'contract_name': 'seville', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 4, 'available_bikes': 21, 'address': 'AVENIDA REINA MERCEDES - Aprox. Facultad de Informática', 'status': 'OPEN', 'position': {'lat': 37.358414, 'lng': -5.986423}, 'last_update': '2024-01-04 16:37:50'}
+reading data
+{'numbers': 280, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 9, 'available_bikes': 9, 'address': 'RUE DE LA CHARBONNIERE ENTRE IMP AMPERE ET RUE DES PALMIERS', 'status': 'OPEN', 'position': {'lat': 43.573732, 'lng': 1.448768}, 'last_update': '2024-01-04 16:35:56'}
+reading data
+{'numbers': 54, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 15, 'available_bikes': 5, 'address': 'Smartinska cesta 58', 'status': 'OPEN', 'position': {'lat': 46.065206, 'lng': 14.529911}, 'last_update': '2024-01-04 16:37:37'}
+reading data
+{'numbers': 122, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 13, 'available_bikes': 17, 'address': "GARE D'ETTERBEEK/STATION VAN ETTERBEEK - BOULEVARD GENERAL JACQUES/GENERAAL JACQUESLAAN", 'status': 'OPEN', 'position': {'lat': 50.822207, 'lng': 4.389325}, 'last_update': '2024-01-04 16:39:22'}
+reading data
+{'numbers': 10028, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 24, 'available_bike_stands': 17, 'available_bikes': 6, 'address': 'Cours de la République/Angle Anatole France', 'status': 'OPEN', 'position': {'lat': 45.767467, 'lng': 4.874032}, 'last_update': '2024-01-04 16:38:41'}
+reading data
+{'numbers': 50021, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 0, 'available_bikes': 20, 'address': "BOULEVARD DE L'OISE / RUE DE LA GARE - 95000 CERGY", 'status': 'OPEN', 'position': {'lat': 49.03632, 'lng': 2.079568}, 'last_update': '2024-01-04 16:23:35'}
+reading data
+{'numbers': 45, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': 'Savska cesta 1', 'status': 'OPEN', 'position': {'lat': 46.062475, 'lng': 14.524321}, 'last_update': '2024-01-04 16:37:14'}
+reading data
+{'numbers': 1, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 13, 'available_bikes': 6, 'address': 'LEOPOLD II - AVENUE DE TERVUREN FACE / TERVURENLAAN VOOR 218', 'status': 'OPEN', 'position': {'lat': 50.836304, 'lng': 4.41505}, 'last_update': '2024-01-04 16:33:20'}
+reading data
+{'numbers': 156, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 7, 'available_bikes': 11, 'address': '38 AV JEAN MOULIN FACE DEBOUCHE RUE DE CANNES', 'status': 'OPEN', 'position': {'lat': 43.579666, 'lng': 1.44184}, 'last_update': '2024-01-04 16:35:47'}
+reading data
+{'numbers': 242, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 16, 'available_bike_stands': 9, 'available_bikes': 7, 'address': 'RUE RAIMBAUD ANGLE RUE COLETTE', 'status': 'OPEN', 'position': {'lat': 43.633734, 'lng': 1.437609}, 'last_update': '2024-01-04 16:30:32'}
+reading data
+{'numbers': 6041, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 15, 'available_bikes': 7, 'address': '50 QUAI ACHILLE LIGNON', 'status': 'OPEN', 'position': {'lat': 45.78458, 'lng': 4.859664}, 'last_update': '2024-01-04 16:34:18'}
+reading data
+{'numbers': 16, 'contract_name': 'besancon', 'banking': False, 'bike_stands': 11, 'available_bike_stands': 6, 'available_bikes': 5, 'address': 'Avenue Fontaine Argent angle rue Beauregard', 'status': 'OPEN', 'position': {'lat': 47.244985, 'lng': 6.032536}, 'last_update': '2024-01-04 16:36:59'}
+reading data
+{'numbers': 224, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 7, 'available_bikes': 13, 'address': "10 AV EDOUARD BELIN FACE CHATEAU D'EAU CREPS RD-PT JEAN LAGASSE", 'status': 'OPEN', 'position': {'lat': 43.56644, 'lng': 1.475301}, 'last_update': '2024-01-04 16:32:28'}
+reading data
+{'numbers': 73, 'contract_name': 'seville', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 12, 'available_bikes': 2, 'address': 'PLAZA SAN AGUSTIN - Aprox. C/ Concepción', 'status': 'OPEN', 'position': {'lat': 37.38962, 'lng': -5.984551}, 'last_update': '2024-01-04 16:35:02'}
+reading data
+{'numbers': 186, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 16, 'available_bikes': 4, 'address': 'CALLE ORFEBRE DOMINGUEZ VÁZQUEZ - Aprox. C/ Pino Montano', 'status': 'OPEN', 'position': {'lat': 37.4086045634395, 'lng': -5.97316115369603}, 'last_update': '2024-01-04 16:37:02'}
+reading data
+{'numbers': 201, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 2, 'available_bike_stands': 1, 'available_bikes': 1, 'address': 'Test Lyon au Labo Maurepas', 'status': 'OPEN', 'position': {'lat': 45.780403, 'lng': 4.904954}, 'last_update': '2024-01-04 16:39:24'}
+reading data
+{'numbers': 2, 'contract_name': 'mulhouse', 'banking': True, 'bike_stands': 14, 'available_bike_stands': 3, 'available_bikes': 11, 'address': '3 Place de la République', 'status': 'OPEN', 'position': {'lat': 47.7459607192146, 'lng': 7.34141256758124}, 'last_update': '2024-01-04 16:32:45'}
+reading data
+{'numbers': 212, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 16, 'available_bikes': 8, 'address': 'THEO LAMBERT - BD THEO LAMBERT (FACE 66) / THEO LAMBERT LAAN (TEGENOVER 66)', 'status': 'OPEN', 'position': {'lat': 50.82701, 'lng': 4.292098}, 'last_update': '2024-01-04 16:36:27'}
+reading data
+{'numbers': 20, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 13, 'available_bikes': 17, 'address': 'James Street East', 'status': 'OPEN', 'position': {'lat': 53.336597, 'lng': -6.248109}, 'last_update': '2024-01-04 16:38:09'}
+reading data
+{'numbers': 24, 'contract_name': 'maribor', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 5, 'available_bikes': 15, 'address': 'Betnavska c. 83', 'status': 'OPEN', 'position': {'lat': 46.54199, 'lng': 15.63831}, 'last_update': '2024-01-04 16:33:14'}
+reading data
+{'numbers': 56104, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 23, 'available_bike_stands': 20, 'available_bikes': 3, 'address': 'PLACE DE LA CHALLE ANGLE RUE DE LA CHALLE ORANGE 95600 - ERAGNY', 'status': 'OPEN', 'position': {'lat': 49.017696834806, 'lng': 2.09941681180915}, 'last_update': '2024-01-04 16:34:26'}
+reading data
+{'numbers': 24, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 2, 'available_bikes': 17, 'address': 'WEICKER - AVENUE JF KENNEDY / RUE ALPHONSE WEICKER', 'status': 'OPEN', 'position': {'lat': 49.631952, 'lng': 6.17048}, 'last_update': '2024-01-04 16:39:33'}
+reading data
+{'numbers': 8, 'contract_name': 'creteil', 'banking': True, 'bike_stands': 34, 'available_bike_stands': 16, 'available_bikes': 18, 'address': 'Avenue de la France Libre', 'status': 'OPEN', 'position': {'lat': 48.7773524472175, 'lng': 2.45537843175518}, 'last_update': '2024-01-04 16:38:13'}
+reading data
+{'numbers': 28, 'contract_name': 'mulhouse', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 10, 'available_bikes': 5, 'address': 'Face 113 Avenue Robert Schuman angle Rue lefebvre', 'status': 'OPEN', 'position': {'lat': 47.756465, 'lng': 7.348388}, 'last_update': '2024-01-04 16:35:02'}
+reading data
+{'numbers': 229, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 10, 'available_bikes': 8, 'address': '129 AV DE RANGUEIL', 'status': 'OPEN', 'position': {'lat': 43.57141, 'lng': 1.462732}, 'last_update': '2024-01-04 16:36:24'}
+reading data
+{'numbers': 10011, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 16, 'available_bike_stands': 9, 'available_bikes': 7, 'address': '174 COURS EMILE ZOLA', 'status': 'OPEN', 'position': {'lat': 45.769226, 'lng': 4.880491}, 'last_update': '2024-01-04 16:38:32'}
+reading data
+{'numbers': 15002, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 6, 'available_bikes': 14, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.70597, 'lng': 4.900886}, 'last_update': '2024-01-04 16:38:51'}
+reading data
+{'numbers': 100, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 1, 'available_bikes': 19, 'address': 'PASEO CATALINA RIBERA - Aprox. C/ San Fernando', 'status': 'OPEN', 'position': {'lat': 37.381542, 'lng': -5.989222}, 'last_update': '2024-01-04 16:39:11'}
+reading data
+{'numbers': 96, 'contract_name': 'seville', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 14, 'available_bikes': 5, 'address': 'CALLE BETIS - Aprox. C/ Juan de Lugo', 'status': 'OPEN', 'position': {'lat': 37.383674, 'lng': -6.000026}, 'last_update': '2024-01-04 16:37:26'}
+reading data
+{'numbers': 38, 'contract_name': 'nantes', 'banking': True, 'bike_stands': 40, 'available_bike_stands': 27, 'available_bikes': 13, 'address': 'Place Alexis-Ricordeau - Chaussée de la Madeleine', 'status': 'OPEN', 'position': {'lat': 47.2121084631418, 'lng': -1.55304912932047}, 'last_update': '2024-01-04 16:39:27'}
+reading data
+{'numbers': 132, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 4, 'available_bikes': 16, 'address': 'CALLE PAEZ DE RIVERA - Aprox. Paseo de la Palmera', 'status': 'OPEN', 'position': {'lat': 37.3636193796288, 'lng': -5.98478516852571}, 'last_update': '2024-01-04 16:34:49'}
+reading data
+{'numbers': 18, 'contract_name': 'amiens', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 14, 'available_bikes': 6, 'address': '2 rue Puvis de Chavannes', 'status': 'OPEN', 'position': {'lat': 49.890229, 'lng': 2.295865}, 'last_update': '2024-01-04 16:35:43'}
+reading data
+{'numbers': 10005, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 35, 'available_bike_stands': 32, 'available_bikes': 2, 'address': "Face Entrée du Parc de la Tête d'Or**", 'status': 'OPEN', 'position': {'lat': 45.779702, 'lng': 4.860029}, 'last_update': '2024-01-04 16:37:48'}
+reading data
+{'numbers': 4012, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 30, 'available_bike_stands': 17, 'available_bikes': 12, 'address': 'Angle montée de la Boucle', 'status': 'OPEN', 'position': {'lat': 45.778767, 'lng': 4.841109}, 'last_update': '2024-01-04 16:38:26'}
+reading data
+{'numbers': 56, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 40, 'available_bike_stands': 25, 'available_bikes': 15, 'address': 'Mount Street Lower', 'status': 'OPEN', 'position': {'lat': 53.33796, 'lng': -6.24153}, 'last_update': '2024-01-04 16:37:53'}
+reading data
+{'numbers': 7, 'contract_name': 'toyama', 'banking': False, 'bike_stands': 16, 'available_bike_stands': 5, 'available_bikes': 11, 'address': '北新町１丁目３番 1-3 Kitashin-machi', 'status': 'OPEN', 'position': {'lat': 36.693935, 'lng': 137.220853}, 'last_update': '2024-01-04 16:37:06'}
+reading data
+{'numbers': 333, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 9, 'available_bikes': 16, 'address': 'TRACTEBEL - AV MARCEL THIRY FACE AU N°93', 'status': 'OPEN', 'position': {'lat': 50.856582, 'lng': 4.430988}, 'last_update': '2024-01-04 16:38:32'}
+reading data
+{'numbers': 184, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 15, 'available_bikes': 10, 'address': 'PHILIPPE BAUCQ - RUE PHILIPPE BAUCQ / PHILIPPE BAUCQSTRAAT 32 - 38', 'status': 'OPEN', 'position': {'lat': 50.831592, 'lng': 4.385786}, 'last_update': '2024-01-04 16:33:01'}
+reading data
+{'numbers': 256, 'contract_name': 'seville', 'banking': False, 'bike_stands': 29, 'available_bike_stands': 23, 'available_bikes': 6, 'address': 'Esquina Calle Pero Mingo', 'status': 'OPEN', 'position': {'lat': 37.3861004967786, 'lng': -5.9100909196767}, 'last_update': '2024-01-04 16:38:18'}
+reading data
+{'numbers': 30, 'contract_name': 'besancon', 'banking': False, 'bike_stands': 12, 'available_bike_stands': 7, 'available_bikes': 5, 'address': '18 rue Xavier Marmier', 'status': 'OPEN', 'position': {'lat': 47.241652, 'lng': 6.007549}, 'last_update': '2024-01-04 16:37:07'}
+reading data
+{'numbers': 11004, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 14, 'available_bikes': 1, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.79169, 'lng': 4.843452}, 'last_update': '2024-01-04 16:37:17'}
+reading data
+{'numbers': 66, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 8, 'address': 'Face au 23, avenue Chanzy', 'status': 'OPEN', 'position': {'lat': 47.2254298853335, 'lng': -1.54799992590737}, 'last_update': '2024-01-04 16:39:28'}
+reading data
+{'numbers': 82, 'contract_name': 'seville', 'banking': False, 'bike_stands': 17, 'available_bike_stands': 8, 'available_bikes': 9, 'address': 'CALLE LUIS MONTOTO - Aprox. C/ Maese Farfán', 'status': 'OPEN', 'position': {'lat': 37.3870984770164, 'lng': -5.97484314721458}, 'last_update': '2024-01-04 16:33:26'}
+reading data
+{'numbers': 211, 'contract_name': 'valence', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 12, 'available_bikes': 3, 'address': "Fray Junípero Serra - Vall d'Uixó", 'status': 'OPEN', 'position': {'lat': 39.4586940486343, 'lng': -0.397848157697943}, 'last_update': '2024-01-04 16:32:10'}
+reading data
+{'numbers': 154, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 13, 'available_bikes': 7, 'address': '50 M AVANT 4 RUE DES GALLOIS', 'status': 'OPEN', 'position': {'lat': 43.589928, 'lng': 1.441706}, 'last_update': '2024-01-04 16:32:33'}
+reading data
+{'numbers': 6, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 16, 'available_bikes': 4, 'address': 'Christchurch Place', 'status': 'OPEN', 'position': {'lat': 53.343368, 'lng': -6.27012}, 'last_update': '2024-01-04 16:39:12'}
+reading data
+{'numbers': 50008, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 17, 'available_bike_stands': 8, 'available_bikes': 9, 'address': "RUE DE L'ESPLANADE DE PARIS ANGLE BOULEVARD DE L'OISE - 95000 CERGY", 'status': 'OPEN', 'position': {'lat': 49.044092, 'lng': 2.036546}, 'last_update': '2024-01-04 16:34:52'}
+reading data
+{'numbers': 126, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': 'Route de Garnich 3', 'status': 'OPEN', 'position': {'lat': 49.615901, 'lng': 5.993194}, 'last_update': '2024-01-04 16:39:44'}
+reading data
+{'numbers': 96, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 11, 'available_bikes': 14, 'address': '50 RUE DU GENERAL COMPANS', 'status': 'OPEN', 'position': {'lat': 43.609757, 'lng': 1.455212}, 'last_update': '2024-01-04 16:36:35'}
+reading data
+{'numbers': 202, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 7, 'available_bikes': 13, 'address': 'AVENIDA MUJER TRABAJADORA - Aprox. Avda Miraflores', 'status': 'OPEN', 'position': {'lat': 37.411466577192, 'lng': -5.96676313290727}, 'last_update': '2024-01-04 16:32:57'}
+reading data
+{'numbers': 5, 'contract_name': 'lund', 'banking': True, 'bike_stands': 33, 'available_bike_stands': 19, 'available_bikes': 13, 'address': '', 'status': 'OPEN', 'position': {'lat': 55.7019107380952, 'lng': 13.196025788784}, 'last_update': '2024-01-04 16:36:17'}
+reading data
+{'numbers': 2, 'contract_name': 'besancon', 'banking': False, 'bike_stands': 10, 'available_bike_stands': 7, 'available_bikes': 3, 'address': 'Rue Battant (au niveau du Square Bouchot)', 'status': 'OPEN', 'position': {'lat': 47.243569, 'lng': 6.021966}, 'last_update': '2024-01-04 16:35:58'}
+reading data
+{'numbers': 10, 'contract_name': 'maribor', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 5, 'available_bikes': 15, 'address': 'Glavni trg 20', 'status': 'OPEN', 'position': {'lat': 46.557328, 'lng': 15.646833}, 'last_update': '2024-01-04 16:39:43'}
+reading data
+{'numbers': 98, 'contract_name': 'valence', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 1, 'available_bikes': 14, 'address': 'Justo y Pastor - Duque de Gaeta', 'status': 'OPEN', 'position': {'lat': 39.4696481015324, 'lng': -0.348533015740284}, 'last_update': '2024-01-04 16:39:41'}
+reading data
+{'numbers': 65, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 27, 'available_bike_stands': 23, 'available_bikes': 4, 'address': '2 ALL FORAIN FRANCOIS VERDIER', 'status': 'OPEN', 'position': {'lat': 43.596904, 'lng': 1.452596}, 'last_update': '2024-01-04 16:33:39'}
+reading data
+{'numbers': 360, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 24, 'available_bike_stands': 10, 'available_bikes': 14, 'address': "STOCKEL/STOKKEL - AVENUE D'OPHEMLAAN, 1-3", 'status': 'OPEN', 'position': {'lat': 50.84157, 'lng': 4.46577}, 'last_update': '2024-01-04 16:39:00'}
+reading data
+{'numbers': 186, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 17, 'available_bike_stands': 8, 'available_bikes': 8, 'address': 'GENOT - CHAUSSEE DE GAND DEVANT 1033', 'status': 'OPEN', 'position': {'lat': 50.861783, 'lng': 4.302607}, 'last_update': '2024-01-04 16:33:07'}
+reading data
+{'numbers': 29, 'contract_name': 'nancy', 'banking': True, 'bike_stands': 24, 'available_bike_stands': 8, 'available_bikes': 16, 'address': 'Place du Vélodrome', 'status': 'OPEN', 'position': {'lat': 48.666721193896, 'lng': 6.16661978303466}, 'last_update': '2024-01-04 16:34:28'}
+reading data
+{'numbers': 16002, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 3, 'available_bikes': 14, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.719399, 'lng': 4.854681}, 'last_update': '2024-01-04 16:36:14'}
+reading data
+{'numbers': 3009, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 18, 'available_bikes': 4, 'address': '133 COURS GAMBETTA', 'status': 'OPEN', 'position': {'lat': 45.750251, 'lng': 4.857919}, 'last_update': '2024-01-04 16:39:18'}
+reading data
+{'numbers': 2, 'contract_name': 'amiens', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 8, 'available_bikes': 12, 'address': 'Rue J Natiere', 'status': 'OPEN', 'position': {'lat': 49.896032388592566, 'lng': 2.295043974872919}, 'last_update': '2024-01-04 16:36:14'}
+reading data
+{'numbers': 167, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 14, 'available_bikes': 8, 'address': 'CHARLES V/KAREL V - AVENUE CHARLES QUINT/KEIZER KARELLAAN 129-131', 'status': 'OPEN', 'position': {'lat': 50.869032, 'lng': 4.309731}, 'last_update': '2024-01-04 16:32:57'}
+reading data
+{'numbers': 22, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': '24 BD LAZARE CARNOT', 'status': 'OPEN', 'position': {'lat': 43.602914, 'lng': 1.451719}, 'last_update': '2024-01-04 16:39:53'}
+reading data
+{'numbers': 305, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 13, 'available_bikes': 12, 'address': 'PETER BENOIT - PLACE PETER BENOIT PLAATS 2-4', 'status': 'OPEN', 'position': {'lat': 50.895592, 'lng': 4.387965}, 'last_update': '2024-01-04 16:30:11'}
+reading data
+{'numbers': 68, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': 'Dunajska cesta', 'status': 'OPEN', 'position': {'lat': 46.102446, 'lng': 14.530213}, 'last_update': '2024-01-04 16:34:48'}
+reading data
+{'numbers': 121, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 10, 'available_bikes': 5, 'address': '12, place Victor Richard', 'status': 'OPEN', 'position': {'lat': 47.228614, 'lng': -1.533329}, 'last_update': '2024-01-04 16:34:06'}
+reading data
+{'numbers': 76, 'contract_name': 'valence', 'banking': True, 'bike_stands': 19, 'available_bike_stands': 11, 'available_bikes': 8, 'address': 'Campoamor - Músico Ginés', 'status': 'OPEN', 'position': {'lat': 39.4700511045018, 'lng': -0.343552001034738}, 'last_update': '2024-01-04 16:37:59'}
+reading data
+{'numbers': 10122, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 21, 'available_bike_stands': 21, 'available_bikes': 0, 'address': '17 RUE DE VERDUN (VILLEURBANNE)', 'status': 'OPEN', 'position': {'lat': 45.784023, 'lng': 4.897102}, 'last_update': '2024-01-04 16:35:37'}
+reading data
+{'numbers': 50, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 21, 'available_bikes': 2, 'address': 'RIBAUCOURT - BLD LEOPOLD II / LEOPOLD II-LAAN 121-123', 'status': 'OPEN', 'position': {'lat': 50.860862, 'lng': 4.339182}, 'last_update': '2024-01-04 16:37:34'}
+reading data
+{'numbers': 18, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 16, 'available_bikes': 13, 'address': 'Grantham Street', 'status': 'OPEN', 'position': {'lat': 53.334123, 'lng': -6.265436}, 'last_update': '2024-01-04 16:38:23'}
+reading data
+{'numbers': 93, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 7, 'available_bikes': 11, 'address': 'CLOVIS - CHAUSSEE DE LOUVAIN - LEUVENSESTEENWEG 260-264', 'status': 'OPEN', 'position': {'lat': 50.850333, 'lng': 4.380461}, 'last_update': '2024-01-04 16:32:57'}
+reading data
+{'numbers': 226, 'contract_name': 'seville', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 10, 'available_bikes': 5, 'address': 'AVENIDA DOCTOR EMILIO LEMOS - Aprox. C/ de Birmania', 'status': 'OPEN', 'position': {'lat': 37.4028628717453, 'lng': -5.92175367632774}, 'last_update': '2024-01-04 16:36:59'}
+reading data
+{'numbers': 103, 'contract_name': 'seville', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 18, 'available_bikes': 1, 'address': 'AVENIDA EDUARDO DATO - Aprox. C/ San Bernardo', 'status': 'OPEN', 'position': {'lat': 37.3845478, 'lng': -5.9825334}, 'last_update': '2024-01-04 16:30:07'}
+reading data
+{'numbers': 16, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 7, 'available_bikes': 11, 'address': 'CALLE DE MANUEL VILLALOBOS - Aprox. C/ Sor Francisca Dorotea', 'status': 'OPEN', 'position': {'lat': 37.406927, 'lng': -5.982622}, 'last_update': '2024-01-04 16:36:53'}
+reading data
+{'numbers': 236, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 19, 'available_bikes': 1, 'address': "RUE DE L'ABBE JULES LEMIRE ANGLE VOIE DU TOEC", 'status': 'OPEN', 'position': {'lat': 43.597322, 'lng': 1.403694}, 'last_update': '2024-01-04 16:33:27'}
+reading data
+{'numbers': 16001, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 15, 'available_bikes': 5, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.725891, 'lng': 4.858428}, 'last_update': '2024-01-04 16:39:47'}
+reading data
+{'numbers': 10, 'contract_name': 'amiens', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 7, 'available_bikes': 13, 'address': "Place D' Aguesseau", 'status': 'OPEN', 'position': {'lat': 49.8933588618336, 'lng': 2.301314220716614}, 'last_update': '2024-01-04 16:32:55'}
+reading data
+{'numbers': 7038, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 13, 'available_bike_stands': 9, 'available_bikes': 4, 'address': 'Angle Rue de la Guillotiere', 'status': 'OPEN', 'position': {'lat': 45.749622, 'lng': 4.85299}, 'last_update': '2024-01-04 16:39:47'}
+reading data
+{'numbers': 2, 'contract_name': 'lund', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 11, 'available_bikes': 14, 'address': '', 'status': 'OPEN', 'position': {'lat': 55.7042412794077, 'lng': 13.1876116991043}, 'last_update': '2024-01-04 16:32:05'}
+reading data
+{'numbers': 10091, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 16, 'available_bike_stands': 14, 'available_bikes': 2, 'address': '28 RUE DU CHÂTEAU GAILLARD (VILLEURBANNE)', 'status': 'OPEN', 'position': {'lat': 45.774754, 'lng': 4.887977}, 'last_update': '2024-01-04 16:36:45'}
+reading data
+{'numbers': 116, 'contract_name': 'valence', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 11, 'available_bikes': 4, 'address': 'Doctor Vicente Zaragozá - Ramón Asensio', 'status': 'OPEN', 'position': {'lat': 39.4832211443412, 'lng': -0.357652050365347}, 'last_update': '2024-01-04 16:38:45'}
+reading data
+{'numbers': 1, 'contract_name': 'toyama', 'banking': False, 'bike_stands': 16, 'available_bike_stands': 8, 'available_bikes': 8, 'address': '奥田新町８番 8 Okudashin-machi', 'status': 'OPEN', 'position': {'lat': 36.705842, 'lng': 137.215829}, 'last_update': '2024-01-04 16:35:12'}
+reading data
+{'numbers': 21, 'contract_name': 'valence', 'banking': True, 'bike_stands': 16, 'available_bike_stands': 14, 'available_bikes': 2, 'address': 'Juan Llorens - Literato Gabriel Miró', 'status': 'OPEN', 'position': {'lat': 39.4723390971218, 'lng': -0.390305142409828}, 'last_update': '2024-01-04 16:31:58'}
+reading data
+{'numbers': 32, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 23, 'available_bikes': 7, 'address': 'Pearse Street', 'status': 'OPEN', 'position': {'lat': 53.344304, 'lng': -6.250427}, 'last_update': '2024-01-04 16:34:48'}
+reading data
+{'numbers': 274, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 9, 'available_bikes': 16, 'address': 'CORAY - CHEE DE GAND DEVANT 579-587 GENTSESTEENWEG VOOR 579-587', 'status': 'OPEN', 'position': {'lat': 50.86002, 'lng': 4.307502}, 'last_update': '2024-01-04 16:33:05'}
+reading data
+{'numbers': 52, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 32, 'available_bike_stands': 19, 'available_bikes': 13, 'address': 'York Street East', 'status': 'OPEN', 'position': {'lat': 53.338755, 'lng': -6.262003}, 'last_update': '2024-01-04 16:34:26'}
+reading data
+{'numbers': 2021, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 28, 'available_bikes': 2, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.745824, 'lng': 4.817176}, 'last_update': '2024-01-04 16:30:47'}
+reading data
+{'numbers': 193, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 19, 'available_bikes': 1, 'address': 'Uruguay - Carteros', 'status': 'OPEN', 'position': {'lat': 39.4551140401216, 'lng': -0.38680912265075}, 'last_update': '2024-01-04 16:34:23'}
+reading data
+{'numbers': 143, 'contract_name': 'seville', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 5, 'available_bikes': 13, 'address': 'AVDA. FLOTA DE INDIAS - Aprox. C/ Virgen de la Oliva', 'status': 'OPEN', 'position': {'lat': 37.371532, 'lng': -6.002801}, 'last_update': '2024-01-04 16:34:23'}
+reading data
+{'numbers': 22, 'contract_name': 'namur', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 8, 'address': '022 - GROGNON - ROND-POINT GROGNON / GROGNON', 'status': 'OPEN', 'position': {'lat': 50.461576, 'lng': 4.867857}, 'last_update': '2024-01-04 16:38:18'}
+reading data
+{'numbers': 98, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 7, 'available_bikes': 13, 'address': 'CIMETIERE / KERKHOF - Bd Mettewie 40 x Chau. de Gand / Mettewielaan 40 x Gentsesteenweg', 'status': 'OPEN', 'position': {'lat': 50.85904, 'lng': 4.312402}, 'last_update': '2024-01-04 16:38:18'}
+reading data
+{'numbers': 260, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 13, 'available_bikes': 12, 'address': 'TRITON - AVENUE DES ANCIENS COMBATTANTS - PISCINE / OUD-STRIJDERSLAAN - ZWEMBAD', 'status': 'OPEN', 'position': {'lat': 50.86702, 'lng': 4.406995}, 'last_update': '2024-01-03 22:53:28'}
+reading data
+{'numbers': 111, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 27, 'available_bike_stands': 18, 'available_bikes': 9, 'address': '38B BD DES MINIMES', 'status': 'OPEN', 'position': {'lat': 43.615273, 'lng': 1.442937}, 'last_update': '2024-01-04 16:36:52'}
+reading data
+{'numbers': 268, 'contract_name': 'valence', 'banking': True, 'bike_stands': 10, 'available_bike_stands': 4, 'available_bikes': 6, 'address': 'Plaza Luis Cano, 5', 'status': 'OPEN', 'position': {'lat': 39.5014131861577, 'lng': -0.418584242795808}, 'last_update': '2024-01-04 16:39:23'}
+reading data
+{'numbers': 46, 'contract_name': 'seville', 'banking': False, 'bike_stands': 16, 'available_bike_stands': 10, 'available_bikes': 6, 'address': 'PLAZA DEL PELICANO - Aprox. C/ Enladrilladas', 'status': 'OPEN', 'position': {'lat': 37.397595, 'lng': -5.983972}, 'last_update': '2024-01-04 16:37:12'}
+reading data
+{'numbers': 50023, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 13, 'available_bikes': 7, 'address': 'AVENUE DU SUD - 95000 CERGY', 'status': 'OPEN', 'position': {'lat': 49.030665, 'lng': 2.083067}, 'last_update': '2024-01-04 16:32:18'}
+reading data
+{'numbers': 102, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 14, 'available_bike_stands': 12, 'available_bikes': 0, 'address': 'FENTANGE "Hiehl" - RUE DE BETTEMBOURG DEVANT N°75', 'status': 'OPEN', 'position': {'lat': 49.567771, 'lng': 6.152463}, 'last_update': '2024-01-04 16:37:42'}
+reading data
+{'numbers': 48, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 40, 'available_bike_stands': 35, 'available_bikes': 5, 'address': 'Excise Walk', 'status': 'OPEN', 'position': {'lat': 53.347777, 'lng': -6.244239}, 'last_update': '2024-01-04 16:35:55'}
+reading data
+{'numbers': 11, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 17, 'available_bikes': 3, 'address': 'Vilharjeva cesta 23', 'status': 'OPEN', 'position': {'lat': 46.06005, 'lng': 14.51302}, 'last_update': '2024-01-04 16:39:35'}
+reading data
+{'numbers': 4025, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 5, 'available_bikes': 15, 'address': '29 RUE CHAZIERE', 'status': 'OPEN', 'position': {'lat': 45.775425, 'lng': 4.817888}, 'last_update': '2024-01-04 16:37:54'}
+reading data
+{'numbers': 38, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 10, 'available_bikes': 9, 'address': 'JEU DE BALLE/VOSSENPLEIN - RUE BLAES/BLAESSTRAAT 135-141', 'status': 'OPEN', 'position': {'lat': 50.837912, 'lng': 4.347421}, 'last_update': '2024-01-04 16:34:19'}
+reading data
+{'numbers': 152, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': '10 AV DES MAZADES', 'status': 'OPEN', 'position': {'lat': 43.624114, 'lng': 1.438463}, 'last_update': '2024-01-04 16:30:32'}
+reading data
+{'numbers': 243, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 17, 'available_bike_stands': 7, 'available_bikes': 10, 'address': 'FACE 97 AV DES ETATS-UNIS ANGLE JULES FERRY', 'status': 'OPEN', 'position': {'lat': 43.632734, 'lng': 1.431732}, 'last_update': '2024-01-04 16:30:57'}
+reading data
+{'numbers': 53001, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 15, 'available_bikes': 5, 'address': 'Place du General de Gaulle devant la Gare - 95300 PONTOISE', 'status': 'OPEN', 'position': {'lat': 49.047619, 'lng': 2.096823}, 'last_update': '2024-01-04 16:31:08'}
+reading data
+{'numbers': 10113, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 22, 'available_bike_stands': 19, 'available_bikes': 2, 'address': '49 AV. GENERAL LECLERC (VILLEURBANNE)', 'status': 'OPEN', 'position': {'lat': 45.755768, 'lng': 4.891542}, 'last_update': '2024-01-04 16:38:12'}
+reading data
+{'numbers': 3, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 6, 'available_bikes': 9, 'address': '4, rue des Carmélites - Place Tirant Lo Blanc', 'status': 'OPEN', 'position': {'lat': 47.2164797718207, 'lng': -1.55154060534636}, 'last_update': '2024-01-04 16:39:03'}
+reading data
+{'numbers': 57, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 24, 'available_bike_stands': 17, 'available_bikes': 7, 'address': 'MADOU - Av. des Arts / Kunstlaan 1 - 2', 'status': 'OPEN', 'position': {'lat': 50.848712, 'lng': 4.369509}, 'last_update': '2024-01-04 16:33:08'}
+reading data
+{'numbers': 4023, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 22, 'available_bike_stands': 18, 'available_bikes': 4, 'address': 'Face au 45 quai Gillet', 'status': 'OPEN', 'position': {'lat': 45.778175, 'lng': 4.810716}, 'last_update': '2024-01-04 16:37:17'}
+reading data
+{'numbers': 7, 'contract_name': 'namur', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 10, 'available_bikes': 5, 'address': '007 - ANGE - PLACE DE L ANGE FACE 95', 'status': 'OPEN', 'position': {'lat': 50.46424, 'lng': 4.8652}, 'last_update': '2024-01-04 16:35:02'}
+reading data
+{'numbers': 144, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 6, 'available_bikes': 9, 'address': 'Rue de la Gare 19 - Terminus Bus', 'status': 'OPEN', 'position': {'lat': 49.66151, 'lng': 6.135785}, 'last_update': '2024-01-04 16:36:05'}
+reading data
+{'numbers': 265, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 7, 'available_bikes': 10, 'address': 'Aprox.', 'status': 'OPEN', 'position': {'lat': 37.4111754, 'lng': -5.977282}, 'last_update': '2024-01-04 16:36:46'}
+reading data
+{'numbers': 351, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 15, 'available_bikes': 9, 'address': "ULB - AV BUYL CROISEMENT AV DE L'UNIVERSITE (DEVANT L'ULB)", 'status': 'OPEN', 'position': {'lat': 50.813724, 'lng': 4.384205}, 'last_update': '2024-01-04 16:31:46'}
+reading data
+{'numbers': 209, 'contract_name': 'seville', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 15, 'available_bikes': 0, 'address': 'AVENIDA ALEMANIA - Aprox. Glorieta Chekia', 'status': 'OPEN', 'position': {'lat': 37.3453173116431, 'lng': -5.98265615036839}, 'last_update': '2024-01-04 16:30:55'}
+reading data
+{'numbers': 26, 'contract_name': 'seville', 'banking': False, 'bike_stands': 17, 'available_bike_stands': 15, 'available_bikes': 1, 'address': 'AVENIDA DE MIRAFLORES - Aprox. C/ Manuel Ródenas', 'status': 'OPEN', 'position': {'lat': 37.4024945374132, 'lng': -5.97767816602457}, 'last_update': '2024-01-04 16:38:39'}
+reading data
+{'numbers': 228, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 7, 'available_bikes': 17, 'address': "ALTITUDE CENT / HOOGTE HONDERD - Pl. de l'Altitude Cent face n°31 / Hoogte Honderdplein tegenover n°31", 'status': 'OPEN', 'position': {'lat': 50.816525, 'lng': 4.336212}, 'last_update': '2024-01-04 11:38:14'}
+reading data
+{'numbers': 206, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 15, 'available_bikes': 10, 'address': 'SAINT GUIDON / SINT GUIDO - AV PAUL JANSON (FACE AU 34-28) / PAUL JANSONLAAN (TEGENOVER 34-28)', 'status': 'OPEN', 'position': {'lat': 50.834611, 'lng': 4.305494}, 'last_update': '2024-01-04 16:37:35'}
+reading data
+{'numbers': 88, 'contract_name': 'luxembourg', 'banking': True, 'bike_stands': 30, 'available_bike_stands': 12, 'available_bikes': 16, 'address': 'SERRA - AVENUE J.F. KENNEDY / CIRCUIT DE LA FOIRE (Arrêt Luxexpo)', 'status': 'OPEN', 'position': {'lat': 49.635423, 'lng': 6.176061}, 'last_update': '2024-01-04 16:38:41'}
+reading data
+{'numbers': 174, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 19, 'available_bike_stands': 8, 'available_bikes': 11, 'address': '41 AV MAURICE BOURGES MAUNOURY', 'status': 'OPEN', 'position': {'lat': 43.63694, 'lng': 1.452615}, 'last_update': '2024-01-04 16:39:00'}
+reading data
+{'numbers': 6, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 6, 'address': 'AL BRÉCK - VIADUC / BOULEVARD DE LA PETRUSSE', 'status': 'OPEN', 'position': {'lat': 49.60481, 'lng': 6.133404}, 'last_update': '2024-01-04 16:37:10'}
+reading data
+{'numbers': 97, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 8, 'available_bikes': 7, 'address': 'Rue de Luxembourg/Route de Longwy', 'status': 'OPEN', 'position': {'lat': 49.603644, 'lng': 6.077783}, 'last_update': '2024-01-04 16:36:55'}
+reading data
+{'numbers': 10, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 13, 'available_bikes': 5, 'address': 'Masarykova cesta 14', 'status': 'OPEN', 'position': {'lat': 46.05763, 'lng': 14.514264}, 'last_update': '2024-01-04 16:35:37'}
+reading data
+{'numbers': 178, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 10, 'available_bikes': 12, 'address': 'DIAMANT/DIAMANT - RUE COLONEL BOURG EN FACE 3', 'status': 'OPEN', 'position': {'lat': 50.85043, 'lng': 4.402169}, 'last_update': '2024-01-04 16:37:35'}
+reading data
+{'numbers': 3066, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 19, 'available_bikes': 0, 'address': '139 AV. FELIX FAURE', 'status': 'OPEN', 'position': {'lat': 45.754296, 'lng': 4.86359}, 'last_update': '2024-01-04 16:38:59'}
+reading data
+{'numbers': 47, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 7, 'address': 'LEOPOLD GOEBEL - ALLEE LEOPOLD GOEBEL ( DEVANT N° 109 )', 'status': 'OPEN', 'position': {'lat': 49.6122, 'lng': 6.1072}, 'last_update': '2024-01-04 16:37:46'}
+reading data
+{'numbers': 245, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 13, 'available_bikes': 12, 'address': 'CHEE DE WATERLOO/WATERLOOSESTEENWEG 1050', 'status': 'OPEN', 'position': {'lat': 50.798988, 'lng': 4.375581}, 'last_update': '2024-01-04 16:32:50'}
+reading data
+{'numbers': 247, 'contract_name': 'valence', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 9, 'available_bikes': 6, 'address': 'Tres Cruces - Músico Ayllón', 'status': 'OPEN', 'position': {'lat': 39.4673780754272, 'lng': -0.405664185821979}, 'last_update': '2024-01-04 16:38:45'}
+reading data
+{'numbers': 31, 'contract_name': 'valence', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 5, 'available_bikes': 12, 'address': 'Salamanca - Conde Altea', 'status': 'OPEN', 'position': {'lat': 39.4673330883642, 'lng': -0.365119064198398}, 'last_update': '2024-01-04 16:36:42'}
+reading data
+{'numbers': 99, 'contract_name': 'valence', 'banking': True, 'bike_stands': 21, 'available_bike_stands': 10, 'available_bikes': 11, 'address': 'Blasco Ibañez - Pintor José Mongrell', 'status': 'OPEN', 'position': {'lat': 39.4713121097146, 'lng': -0.34057499279659}, 'last_update': '2024-01-04 16:35:45'}
+reading data
+{'numbers': 276, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 10, 'available_bikes': 8, 'address': 'FACE 1 CHEMIN DU MARIN', 'status': 'OPEN', 'position': {'lat': 43.581463, 'lng': 1.379769}, 'last_update': '2024-01-04 16:34:41'}
+reading data
+{'numbers': 77, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 13, 'available_bike_stands': 3, 'available_bikes': 10, 'address': '2 PL INTERIEURE SAINT-CYPRIEN', 'status': 'OPEN', 'position': {'lat': 43.59778, 'lng': 1.431619}, 'last_update': '2024-01-04 16:35:53'}
+reading data
+{'numbers': 2, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 18, 'available_bikes': 0, 'address': 'Pogačarjev trg 3', 'status': 'OPEN', 'position': {'lat': 46.051093, 'lng': 14.507186}, 'last_update': '2024-01-04 16:37:40'}
+reading data
+{'numbers': 99, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 12, 'available_bikes': 13, 'address': 'JUBILE - BOULEVARD DU JUBILE/ JUBELFEESTLAAN 79', 'status': 'OPEN', 'position': {'lat': 50.864992, 'lng': 4.338431}, 'last_update': '2024-01-04 16:38:45'}
+reading data
+{'numbers': 89, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 6, 'available_bikes': 13, 'address': 'Place Thorn/Bd Marcel Cahen ,50m avant rue Béatrix', 'status': 'OPEN', 'position': {'lat': 49.60361, 'lng': 6.10278}, 'last_update': '2024-01-04 16:39:29'}
+reading data
+{'numbers': 255, 'contract_name': 'valence', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 10, 'available_bikes': 8, 'address': 'Tomas de Villarroya - San Vicente', 'status': 'OPEN', 'position': {'lat': 39.4476710152215, 'lng': -0.386120116565009}, 'last_update': '2024-01-04 16:36:06'}
+reading data
+{'numbers': 246, 'contract_name': 'valence', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 20, 'available_bikes': 0, 'address': 'Tres Cruces - Hospital General', 'status': 'OPEN', 'position': {'lat': 39.469058080797, 'lng': -0.406600189533111}, 'last_update': '2024-01-04 16:37:28'}
+reading data
+{'numbers': 10111, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 11, 'available_bikes': 9, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.770309, 'lng': 4.86196}, 'last_update': '2024-01-04 16:39:25'}
+reading data
+{'numbers': 9, 'contract_name': 'maribor', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 4, 'available_bikes': 16, 'address': 'Ulica slovenske osamosvojitve 5', 'status': 'OPEN', 'position': {'lat': 46.558519, 'lng': 15.649072}, 'last_update': '2024-01-04 16:39:16'}
+reading data
+{'numbers': 137, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 12, 'available_bikes': 3, 'address': '68 BD JEAN BRUNHES FACE AU 53', 'status': 'OPEN', 'position': {'lat': 43.600473, 'lng': 1.420165}, 'last_update': '2024-01-04 16:37:56'}
+reading data
+{'numbers': 5040, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 11, 'available_bikes': 9, 'address': '7 PLACE BENOIT CREPU', 'status': 'OPEN', 'position': {'lat': 45.757847, 'lng': 4.826103}, 'last_update': '2024-01-04 16:39:49'}
+reading data
+{'numbers': 54904, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 13, 'available_bikes': 5, 'address': "MAIL MENDES FRANCE ANGLE BOULEVARD DE L'OISE - 95490 VAUREAL", 'status': 'OPEN', 'position': {'lat': 49.023836592832, 'lng': 2.02259548583062}, 'last_update': '2024-01-04 16:39:44'}
+reading data
+{'numbers': 13, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 29, 'available_bikes': 1, 'address': 'Fitzwilliam Square West', 'status': 'OPEN', 'position': {'lat': 53.336074, 'lng': -6.252825}, 'last_update': '2024-01-04 16:37:09'}
+reading data
+{'numbers': 358, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 13, 'available_bikes': 12, 'address': 'MADOUX - AVENUE DE TERVUREN FACE 403', 'status': 'OPEN', 'position': {'lat': 50.82708, 'lng': 4.444795}, 'last_update': '2024-01-04 16:32:59'}
+reading data
+{'numbers': 7008, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 10, 'available_bike_stands': 2, 'available_bikes': 8, 'address': 'Avenue Jean Jaurès - Angle rue de la Guillotière', 'status': 'OPEN', 'position': {'lat': 45.75251, 'lng': 4.846278}, 'last_update': '2024-01-04 16:39:11'}
+reading data
+{'numbers': 4, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 26, 'available_bike_stands': 24, 'available_bikes': 2, 'address': 'Cankarjeva cesta 1', 'status': 'OPEN', 'position': {'lat': 46.052431, 'lng': 14.503257}, 'last_update': '2024-01-04 16:37:31'}
+reading data
+{'numbers': 2, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 17, 'available_bikes': 3, 'address': '29, rue de Strasbourg', 'status': 'OPEN', 'position': {'lat': 47.2185718130915, 'lng': -1.55348429039295}, 'last_update': '2024-01-04 16:37:43'}
+reading data
+{'numbers': 242, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 18, 'available_bikes': 7, 'address': "MAISON COMMUNALE D'UCCLE/UKKEL GEMEENTEHUIS - PLACE JEAN VANDER ELST / JEAN VANDER ELST PLEIN", 'status': 'OPEN', 'position': {'lat': 50.803791, 'lng': 4.333321}, 'last_update': '2024-01-04 16:35:24'}
+reading data
+{'numbers': 41, 'contract_name': 'valence', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 14, 'available_bikes': 6, 'address': 'General Urrutia - Granada', 'status': 'OPEN', 'position': {'lat': 39.4588800599356, 'lng': -0.364867058884755}, 'last_update': '2024-01-04 16:33:10'}
+reading data
+{'numbers': 7024, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 21, 'available_bike_stands': 12, 'available_bikes': 8, 'address': '6 RUE BANCEL', 'status': 'OPEN', 'position': {'lat': 45.748504, 'lng': 4.840505}, 'last_update': '2024-01-04 16:38:50'}
+reading data
+{'numbers': 2023, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 9, 'available_bikes': 9, 'address': "Entre rue Victor Hugo et rue d'Auvergne", 'status': 'OPEN', 'position': {'lat': 45.7444746076792, 'lng': 4.82671963006449}, 'last_update': '2024-01-04 16:33:54'}
+reading data
+{'numbers': 26, 'contract_name': 'valence', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 11, 'available_bikes': 3, 'address': 'San José de Calasanz - Salas Quiroga', 'status': 'OPEN', 'position': {'lat': 39.466303, 'lng': -0.385955}, 'last_update': '2024-01-04 16:38:31'}
+reading data
+{'numbers': 62, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 40, 'available_bike_stands': 29, 'available_bikes': 11, 'address': '22-23 boulevard de Stalingrad', 'status': 'OPEN', 'position': {'lat': 47.218103, 'lng': -1.541751}, 'last_update': '2024-01-04 16:39:15'}
+reading data
+{'numbers': 12, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 15, 'available_bikes': 4, 'address': 'Calle Salvá - Calle Poeta Querol', 'status': 'OPEN', 'position': {'lat': 39.471935, 'lng': -0.374101}, 'last_update': '2024-01-04 16:39:21'}
+reading data
+{'numbers': 8029, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': '81 BVD DES Etats-Unis', 'status': 'OPEN', 'position': {'lat': 45.732366, 'lng': 4.865101}, 'last_update': '2024-01-04 16:37:30'}
+reading data
+{'numbers': 159, 'contract_name': 'valence', 'banking': False, 'bike_stands': 17, 'available_bike_stands': 2, 'available_bikes': 14, 'address': 'Francisco Cubells - San José de la Vega', 'status': 'OPEN', 'position': {'lat': 39.4634170849731, 'lng': -0.334812971276553}, 'last_update': '2024-01-04 16:30:21'}
+reading data
+{'numbers': 255, 'contract_name': 'seville', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 15, 'available_bikes': 15, 'address': 'Esquina rotanda Torreblanca', 'status': 'OPEN', 'position': {'lat': 37.38592586, 'lng': -5.913823572}, 'last_update': '2024-01-04 16:36:00'}
+reading data
+{'numbers': 4004, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 22, 'available_bike_stands': 6, 'available_bikes': 16, 'address': 'Angle rue Hénon', 'status': 'OPEN', 'position': {'lat': 45.779786, 'lng': 4.827635}, 'last_update': '2024-01-04 16:39:29'}
+reading data
+{'numbers': 144, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 22, 'available_bike_stands': 5, 'available_bikes': 17, 'address': '62 BD DE SUISSE', 'status': 'OPEN', 'position': {'lat': 43.615988, 'lng': 1.42163}, 'last_update': '2024-01-04 16:39:21'}
+reading data
+{'numbers': 43, 'contract_name': 'nantes', 'banking': True, 'bike_stands': 36, 'available_bike_stands': 30, 'available_bikes': 6, 'address': '3, boulevard Léon Bureau', 'status': 'OPEN', 'position': {'lat': 47.206918958696, 'lng': -1.56480679078299}, 'last_update': '2024-01-04 16:39:20'}
+reading data
+{'numbers': 27, 'contract_name': 'vilnius', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 0, 'available_bikes': 0, 'address': 'Kalvarijų g. – Žvejų g. sankryža', 'status': 'CLOSED', 'position': {'lat': 54.69221264, 'lng': 25.27933285}, 'last_update': '2023-11-23 10:36:02'}
+reading data
+{'numbers': 8061, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 11, 'available_bikes': 7, 'address': '164 AV. PAUL SANTY', 'status': 'OPEN', 'position': {'lat': 45.725403, 'lng': 4.881292}, 'last_update': '2024-01-04 16:36:52'}
+reading data
+{'numbers': 134, 'contract_name': 'valence', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 20, 'available_bikes': 0, 'address': 'Maximiliano Thous - Luz Casanova', 'status': 'OPEN', 'position': {'lat': 39.4876241541086, 'lng': -0.373430100012801}, 'last_update': '2024-01-04 16:35:27'}
+reading data
+{'numbers': 40, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 16, 'available_bike_stands': 5, 'available_bikes': 10, 'address': '41 RUE DE LA COLOMBETTE', 'status': 'OPEN', 'position': {'lat': 43.604565, 'lng': 1.453659}, 'last_update': '2024-01-04 16:37:18'}
+reading data
+{'numbers': 33, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 10, 'available_bikes': 5, 'address': 'K. ADENAUER - BOULEVARD KONRAD ADENAUER ( DEVANT BEI )', 'status': 'OPEN', 'position': {'lat': 49.620586, 'lng': 6.138998}, 'last_update': '2024-01-04 16:37:32'}
+reading data
+{'numbers': 1023, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 2, 'available_bikes': 18, 'address': '16 BVD DE LA CROIX-ROUSSE', 'status': 'OPEN', 'position': {'lat': 45.772229, 'lng': 4.819389}, 'last_update': '2024-01-04 16:36:10'}
+reading data
+{'numbers': 25, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 8, 'available_bikes': 10, 'address': '1 RUE DES TOURNEURS', 'status': 'OPEN', 'position': {'lat': 43.599525, 'lng': 1.445544}, 'last_update': '2024-01-04 16:35:40'}
+reading data
+{'numbers': 85, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 11, 'available_bikes': 7, 'address': 'Rue Albert Einstein/Bd de Kockelscheuer', 'status': 'OPEN', 'position': {'lat': 49.5842, 'lng': 6.1249}, 'last_update': '2024-01-04 16:35:04'}
+reading data
+{'numbers': 58, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 11, 'available_bikes': 4, 'address': '8,rue André Tardieu', 'status': 'OPEN', 'position': {'lat': 47.208465, 'lng': -1.536657}, 'last_update': '2024-01-04 16:39:49'}
+reading data
+{'numbers': 221, 'contract_name': 'seville', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 6, 'available_bikes': 9, 'address': 'AVENIDA ALCALDE LUIS URUÑUELA - Aprox. Hotel Sevilla Congresos', 'status': 'OPEN', 'position': {'lat': 37.4056085629786, 'lng': -5.93052400216402}, 'last_update': '2024-01-04 16:32:04'}
+reading data
+{'numbers': 74, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 6, 'available_bikes': 12, 'address': '37 RUE LAGANNE', 'status': 'OPEN', 'position': {'lat': 43.596667, 'lng': 1.436229}, 'last_update': '2024-01-04 16:32:00'}
+reading data
+{'numbers': 7003, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 40, 'available_bike_stands': 26, 'available_bikes': 14, 'address': 'Cours Gambette - Prolongement rue Rachais', 'status': 'OPEN', 'position': {'lat': 45.751827, 'lng': 4.8526}, 'last_update': '2024-01-04 16:39:51'}
+reading data
+{'numbers': 43, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 20, 'available_bikes': 10, 'address': 'Portobello Road', 'status': 'OPEN', 'position': {'lat': 53.330091, 'lng': -6.268044}, 'last_update': '2024-01-04 16:36:06'}
+reading data
+{'numbers': 17, 'contract_name': 'luxembourg', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 9, 'available_bikes': 12, 'address': 'ROBERT SCHUMAN - SQUARE SCHUMAN', 'status': 'OPEN', 'position': {'lat': 49.616669, 'lng': 6.126069}, 'last_update': '2024-01-04 16:39:23'}
+reading data
+{'numbers': 7030, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 30, 'available_bike_stands': 27, 'available_bikes': 3, 'address': '33 Boulevard Yves Farge 69007 Lyon', 'status': 'OPEN', 'position': {'lat': 45.743163, 'lng': 4.834165}, 'last_update': '2024-01-04 16:38:50'}
+reading data
+{'numbers': 94, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': 'Rue de Hamm/Rue des pruniers', 'status': 'OPEN', 'position': {'lat': 49.606983, 'lng': 6.154863}, 'last_update': '2024-01-04 16:37:43'}
+reading data
+{'numbers': 94, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 12, 'available_bikes': 8, 'address': 'Boulevard du Petit Port - place du 8 mai 1945', 'status': 'OPEN', 'position': {'lat': 47.2432639149755, 'lng': -1.55634461016798}, 'last_update': '2024-01-04 16:39:13'}
+reading data
+{'numbers': 26, 'contract_name': 'besancon', 'banking': False, 'bike_stands': 10, 'available_bike_stands': 6, 'available_bikes': 4, 'address': 'Place de la 7ème Brigade blindée', 'status': 'OPEN', 'position': {'lat': 47.238867, 'lng': 6.029564}, 'last_update': '2024-01-04 16:37:49'}
+reading data
+{'numbers': 200, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 16, 'available_bikes': 8, 'address': 'VETERANS COLONIAUX / KOLONIALE VETERANEN - BD JULES GRAINDOR / JULES GRAINDORLAAN', 'status': 'OPEN', 'position': {'lat': 50.843967, 'lng': 4.313537}, 'last_update': '2024-01-04 16:39:17'}
+reading data
+{'numbers': 41, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 13, 'available_bikes': 7, 'address': 'Tržaška 91', 'status': 'OPEN', 'position': {'lat': 46.041753, 'lng': 14.477016}, 'last_update': '2024-01-04 16:39:05'}
+reading data
+{'numbers': 71, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 22, 'available_bike_stands': 19, 'available_bikes': 3, 'address': '3 RUE LAGANNE', 'status': 'OPEN', 'position': {'lat': 43.593227, 'lng': 1.435062}, 'last_update': '2024-01-04 16:38:53'}
+reading data
+{'numbers': 6042, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 28, 'available_bike_stands': 13, 'available_bikes': 14, 'address': "devant la résidence hôtelière à l'ouest de la place publique", 'status': 'OPEN', 'position': {'lat': 45.784812, 'lng': 4.856432}, 'last_update': '2024-01-04 16:37:00'}
+reading data
+{'numbers': 84, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 18, 'available_bikes': 4, 'address': 'Rue de la Loire - place Gaston Defferre', 'status': 'OPEN', 'position': {'lat': 47.2107421421814, 'lng': -1.52593345192508}, 'last_update': '2024-01-04 16:38:30'}
+reading data
+{'numbers': 128, 'contract_name': 'seville', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 0, 'available_bikes': 18, 'address': 'Virgen de Loreto - Aprox. C/ Arcos', 'status': 'OPEN', 'position': {'lat': 37.375736, 'lng': -5.999262}, 'last_update': '2024-01-04 16:39:04'}
+reading data
+{'numbers': 11, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 10, 'available_bikes': 4, 'address': 'WINSTON CHURCHILL - PLACE CHURCHILL', 'status': 'OPEN', 'position': {'lat': 49.611317, 'lng': 6.120003}, 'last_update': '2024-01-04 16:38:57'}
+reading data
+{'numbers': 31, 'contract_name': 'nantes', 'banking': True, 'bike_stands': 22, 'available_bike_stands': 14, 'available_bikes': 8, 'address': 'Allée de la Bourse - Boulevard des Nations-Unies', 'status': 'OPEN', 'position': {'lat': 47.2120830307532, 'lng': -1.55908655123987}, 'last_update': '2024-01-04 16:38:24'}
+reading data
+{'numbers': 105, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 19, 'available_bike_stands': 3, 'available_bikes': 16, 'address': '12  AV  ETIENNE  BILLIERES', 'status': 'OPEN', 'position': {'lat': 43.597539, 'lng': 1.428891}, 'last_update': '2024-01-04 16:32:45'}
+reading data
+{'numbers': 179, 'contract_name': 'valence', 'banking': False, 'bike_stands': 23, 'available_bike_stands': 22, 'available_bikes': 1, 'address': 'Av. de la Plata - Zapadores', 'status': 'OPEN', 'position': {'lat': 39.4554400477968, 'lng': -0.366517061973888}, 'last_update': '2024-01-04 16:30:32'}
+reading data
+{'numbers': 181, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 15, 'available_bikes': 9, 'address': 'LOUIS TITZ - AVENUE DE LA CHASSE/ JACHTLAAN 182 - 184', 'status': 'OPEN', 'position': {'lat': 50.835723, 'lng': 4.394395}, 'last_update': '2024-01-04 16:33:00'}
+reading data
+{'numbers': 158, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 24, 'available_bike_stands': 17, 'available_bikes': 7, 'address': 'VAN YSENDIJCK - AVENUE VOLTAIRE (FACE 6) / VOLTAIRELAAN (TEGENOVER 6)', 'status': 'OPEN', 'position': {'lat': 50.867955, 'lng': 4.379577}, 'last_update': '2024-01-04 16:32:52'}
+reading data
+{'numbers': 2013, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 6, 'available_bikes': 10, 'address': "Côté nord de la place, vers l'ascenseur", 'status': 'OPEN', 'position': {'lat': 45.759932, 'lng': 4.832111}, 'last_update': '2024-01-04 16:38:53'}
+reading data
+{'numbers': 235, 'contract_name': 'valence', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 10, 'available_bikes': 5, 'address': 'Conde Torrefiel - Cecilio Plá', 'status': 'OPEN', 'position': {'lat': 39.4980131878952, 'lng': -0.377294117154526}, 'last_update': '2024-01-04 16:36:10'}
+reading data
+{'numbers': 64, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 24, 'available_bike_stands': 13, 'available_bikes': 11, 'address': '30 RUE GABRIEL PERI', 'status': 'OPEN', 'position': {'lat': 43.606208, 'lng': 1.455005}, 'last_update': '2024-01-04 16:36:20'}
+reading data
+{'numbers': 3086, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 16, 'available_bike_stands': 5, 'available_bikes': 11, 'address': '76 AV. LACASSAGNE', 'status': 'OPEN', 'position': {'lat': 45.749563, 'lng': 4.875934}, 'last_update': '2024-01-04 16:37:59'}
+reading data
+{'numbers': 73, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 12, 'available_bikes': 8, 'address': 'Prušnikova ulica', 'status': 'OPEN', 'position': {'lat': 46.090608, 'lng': 14.471637}, 'last_update': '2024-01-04 16:34:12'}
+reading data
+{'numbers': 8025, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 17, 'available_bike_stands': 16, 'available_bikes': 0, 'address': '12 RUE SANTOS DUMONT', 'status': 'OPEN', 'position': {'lat': 45.744447, 'lng': 4.860889}, 'last_update': '2024-01-04 16:35:07'}
+reading data
+{'numbers': 165, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 12, 'available_bikes': 8, 'address': 'CIMETIERE DE JETTE / KERKHOF JETTE - BLD DE SMET DE NAEYER (FACE AU 322)/ DE SMET DE NAEYERSTRAAT (TEGENOVER 322)', 'status': 'OPEN', 'position': {'lat': 50.879668, 'lng': 4.33425}, 'last_update': '2024-01-04 16:34:41'}
+reading data
+{'numbers': 161, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 19, 'available_bikes': 6, 'address': 'DEMOLDER - AVENUE EUGENE DEMOLDER / EUGENE DEMOLDERLAAN 68', 'status': 'OPEN', 'position': {'lat': 50.872592, 'lng': 4.379886}, 'last_update': '2024-01-04 16:39:33'}
+reading data
+{'numbers': 3050, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 20, 'available_bikes': 0, 'address': '5 rue Félix Rollet 69003 Lyon', 'status': 'OPEN', 'position': {'lat': 45.748346, 'lng': 4.875955}, 'last_update': '2024-01-04 16:35:41'}
+reading data
+{'numbers': 8056, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 15, 'available_bikes': 3, 'address': '69 RUE AUDIBERT ET LAVIROTTE', 'status': 'OPEN', 'position': {'lat': 45.73586, 'lng': 4.856888}, 'last_update': '2024-01-04 16:39:16'}
+reading data
+{'numbers': 9, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 18, 'available_bikes': 2, 'address': 'CAMINO DE LOS DESCUBRIMIENTOS - Aprox. C/ Albert Einstein', 'status': 'OPEN', 'position': {'lat': 37.402863, 'lng': -6.004107}, 'last_update': '2024-01-04 16:30:36'}
+reading data
+{'numbers': 10119, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 12, 'available_bike_stands': 8, 'available_bikes': 4, 'address': '2 RUE DES ACACIAS VILLEURBANNE', 'status': 'OPEN', 'position': {'lat': 45.780422, 'lng': 4.904505}, 'last_update': '2024-01-04 16:37:34'}
+reading data
+{'numbers': 347, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 9, 'available_bikes': 16, 'address': 'ERASME - ROUTE DE LENNIK N°808', 'status': 'OPEN', 'position': {'lat': 50.8149606388997, 'lng': 4.26542850805528}, 'last_update': '2024-01-04 16:32:57'}
+reading data
+{'numbers': 119, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': 'AVENIDA DE CHILE - Aprox. Costurero de la Reina', 'status': 'OPEN', 'position': {'lat': 37.377404432033, 'lng': -5.99196520169099}, 'last_update': '2024-01-04 16:34:39'}
+reading data
+{'numbers': 23, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 7, 'available_bikes': 10, 'address': 'REIMERWEE - BOULEVARD K ADENAUER / RUE K KALERGI', 'status': 'OPEN', 'position': {'lat': 49.629448, 'lng': 6.157348}, 'last_update': '2024-01-04 16:37:33'}
+reading data
+{'numbers': 3, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 13, 'available_bikes': 5, 'address': '62 RUE DE LA POMME', 'status': 'OPEN', 'position': {'lat': 43.603302, 'lng': 1.445454}, 'last_update': '2024-01-04 16:38:01'}
+reading data
+{'numbers': 7053, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 28, 'available_bike_stands': 11, 'available_bikes': 17, 'address': '26 RUE DE LA THIBAUDIERE', 'status': 'OPEN', 'position': {'lat': 45.750344, 'lng': 4.845048}, 'last_update': '2024-01-04 16:37:35'}
+reading data
+{'numbers': 93, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 17, 'available_bike_stands': 9, 'available_bikes': 8, 'address': '57 RUE DU PRINTEMPS', 'status': 'OPEN', 'position': {'lat': 43.614574, 'lng': 1.443571}, 'last_update': '2024-01-04 16:32:09'}
+reading data
+{'numbers': 139, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 16, 'available_bikes': 8, 'address': '39 BIS AV DE LOMBEZ', 'status': 'OPEN', 'position': {'lat': 43.595503, 'lng': 1.418503}, 'last_update': '2024-01-04 16:37:35'}
+reading data
+{'numbers': 172, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 8, 'available_bikes': 12, 'address': 'Pío XII - Campanar', 'status': 'OPEN', 'position': {'lat': 39.4814301267876, 'lng': -0.39343615667867}, 'last_update': '2024-01-04 16:33:26'}
+reading data
+{'numbers': 283, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 14, 'available_bike_stands': 5, 'available_bikes': 9, 'address': 'PISCINE / ZWEMBAD - RUE DE LOMBARTZYDE / LOMBARDSIJDESTRAAT', 'status': 'OPEN', 'position': {'lat': 50.893158, 'lng': 4.376931}, 'last_update': '2024-01-04 16:33:36'}
+reading data
+{'numbers': 3, 'contract_name': 'lillestrom', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 20, 'available_bikes': 0, 'address': 'Vestbygata 61, Lillestrom', 'status': 'CLOSED', 'position': {'lat': 59.964446, 'lng': 11.040774}, 'last_update': '2024-01-04 16:31:15'}
+reading data
+{'numbers': 81, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 33, 'available_bike_stands': 8, 'available_bikes': 25, 'address': 'ALLEE CHARLES DE FITTE / FACE JARDIN RAYMOND VI', 'status': 'OPEN', 'position': {'lat': 43.599797, 'lng': 1.429521}, 'last_update': '2024-01-04 16:39:07'}
+reading data
+{'numbers': 3012, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 23, 'available_bikes': 2, 'address': "A côté de l'église", 'status': 'OPEN', 'position': {'lat': 45.749565, 'lng': 4.887311}, 'last_update': '2024-01-04 16:39:50'}
+reading data
+{'numbers': 4009, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 14, 'available_bike_stands': 4, 'available_bikes': 10, 'address': 'Rue Denfert-Rochereau / Angle rue Jacquart', 'status': 'OPEN', 'position': {'lat': 45.77591, 'lng': 4.825394}, 'last_update': '2024-01-04 16:34:21'}
+reading data
+{'numbers': 60, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 24, 'available_bike_stands': 21, 'available_bikes': 2, 'address': '32 PL ROQUELAINE', 'status': 'OPEN', 'position': {'lat': 43.612615, 'lng': 1.448286}, 'last_update': '2024-01-04 16:39:22'}
+reading data
+{'numbers': 1, 'contract_name': 'vilnius', 'banking': True, 'bike_stands': 21, 'available_bike_stands': 0, 'available_bikes': 0, 'address': 'Šventaragio g.', 'status': 'CLOSED', 'position': {'lat': 54.68590826, 'lng': 25.28560002}, 'last_update': '2023-12-20 08:57:43'}
+reading data
+{'numbers': 125, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 10, 'available_bikes': 15, 'address': 'GEORGES BRUGMANN - PLACE GEORGES BRUGMANN/GEORGES BRUGMANNPLEIN N° 10 - 11', 'status': 'OPEN', 'position': {'lat': 50.817392, 'lng': 4.354105}, 'last_update': '2024-01-04 16:36:33'}
+reading data
+{'numbers': 12, 'contract_name': 'lund', 'banking': False, 'bike_stands': 21, 'available_bike_stands': 16, 'available_bikes': 5, 'address': '', 'status': 'OPEN', 'position': {'lat': 55.710366, 'lng': 13.192236}, 'last_update': '2024-01-04 16:32:06'}
+reading data
+{'numbers': 246, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 14, 'available_bikes': 6, 'address': 'GATTI DE GAMMOND - RUE DE STALLE PROLONGEE/STALLE STRAAT 160', 'status': 'OPEN', 'position': {'lat': 50.796471, 'lng': 4.328415}, 'last_update': '2024-01-04 16:32:48'}
+reading data
+{'numbers': 274, 'contract_name': 'valence', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 13, 'available_bikes': 2, 'address': 'San Francisco de Paula - Castell de Pop', 'status': 'OPEN', 'position': {'lat': 39.4480380336336, 'lng': -0.333278958357397}, 'last_update': '2024-01-04 16:34:57'}
+reading data
+{'numbers': 10089, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 13, 'available_bikes': 0, 'address': 'Rue Colin - Angle rue Alexis Perroncel', 'status': 'OPEN', 'position': {'lat': 45.774581, 'lng': 4.87406}, 'last_update': '2024-01-04 16:34:37'}
+reading data
+{'numbers': 74, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 5, 'available_bikes': 10, 'address': '8, place Canclaux', 'status': 'OPEN', 'position': {'lat': 47.2143336608893, 'lng': -1.57492461719297}, 'last_update': '2024-01-04 16:39:39'}
+reading data
+{'numbers': 36, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 19, 'available_bike_stands': 5, 'available_bikes': 14, 'address': '5 PL ROBERT SCHUMAN', 'status': 'OPEN', 'position': {'lat': 43.609622, 'lng': 1.449431}, 'last_update': '2024-01-04 16:39:44'}
+reading data
+{'numbers': 140, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 19, 'available_bikes': 5, 'address': 'AZALEES / AZALEA -   AVENUE PAUL DESCHANEL/LAAN FACE/TEGENOVER N°  6-8', 'status': 'OPEN', 'position': {'lat': 50.862704, 'lng': 4.381289}, 'last_update': '2024-01-04 16:33:10'}
+reading data
+{'numbers': 227, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 32, 'available_bike_stands': 17, 'available_bikes': 15, 'address': '118  RTE DE NARBONNE', 'status': 'OPEN', 'position': {'lat': 43.561074, 'lng': 1.462928}, 'last_update': '2024-01-04 16:35:18'}
+reading data
+{'numbers': 248, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 16, 'available_bikes': 4, 'address': 'RUE DES BOUQUETINS ANGLE RUE EDMOND ROSTAND', 'status': 'OPEN', 'position': {'lat': 43.641013, 'lng': 1.448524}, 'last_update': '2024-01-04 16:35:33'}
+reading data
+{'numbers': 117, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 6, 'available_bikes': 9, 'address': 'Place de la Liberté', 'status': 'OPEN', 'position': {'lat': 47.20656, 'lng': -1.58785}, 'last_update': '2024-01-04 16:39:26'}
+reading data
+{'numbers': 335, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': 'THIRY - BD DE LA WOLUWE DVT 100', 'status': 'OPEN', 'position': {'lat': 50.854231, 'lng': 4.444034}, 'last_update': '2024-01-04 16:32:49'}
+reading data
+{'numbers': 33, 'contract_name': 'seville', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 14, 'available_bikes': 1, 'address': 'CALLE LEÓN XIII - Aprox. C/ Antonio Pantión', 'status': 'OPEN', 'position': {'lat': 37.401546, 'lng': -5.983682}, 'last_update': '2024-01-04 16:33:57'}
+reading data
+{'numbers': 108, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 15, 'available_bikes': 5, 'address': 'EDELECK - RUE DE LUXEMBOURG / EDELECK', 'status': 'OPEN', 'position': {'lat': 49.565477, 'lng': 6.079436}, 'last_update': '2024-01-04 16:38:06'}
+reading data
+{'numbers': 279, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 17, 'available_bikes': 7, 'address': 'HOUBA BRUGMANN - AVENUE HOUBA DE STROOPER / HOUBA DE STROOPERLAAN', 'status': 'OPEN', 'position': {'lat': 50.890181, 'lng': 4.336962}, 'last_update': '2024-01-04 16:33:30'}
+reading data
+{'numbers': 53, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 3, 'available_bikes': 21, 'address': 'PLACE SAINT JULIEN', 'status': 'OPEN', 'position': {'lat': 43.608639, 'lng': 1.436965}, 'last_update': '2024-01-04 16:35:57'}
+reading data
+{'numbers': 12, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 32, 'available_bike_stands': 11, 'available_bikes': 21, 'address': 'TRONE/TROON - AVENUE MARNIX/MARNIXLAAN, 30', 'status': 'OPEN', 'position': {'lat': 50.840458, 'lng': 4.365981}, 'last_update': '2024-01-04 16:33:32'}
+reading data
+{'numbers': 1031, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 8, 'available_bikes': 12, 'address': 'Place de la Paix - En face de La Poste', 'status': 'OPEN', 'position': {'lat': 45.768023, 'lng': 4.831733}, 'last_update': '2024-01-04 16:38:12'}
+reading data
+{'numbers': 200, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 8, 'available_bikes': 12, 'address': 'CAMINO DE LOS TOROS - Aprox. C/ Mediterráneo', 'status': 'OPEN', 'position': {'lat': 37.419198, 'lng': -5.963082}, 'last_update': '2024-01-04 16:30:38'}
+reading data
+{'numbers': 3037, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 21, 'available_bike_stands': 13, 'available_bikes': 7, 'address': 'Rue Paul Bert', 'status': 'OPEN', 'position': {'lat': 45.757112, 'lng': 4.853405}, 'last_update': '2024-01-04 16:39:57'}
+reading data
+{'numbers': 72, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 8, 'address': '138, rue Paul Bellamy', 'status': 'OPEN', 'position': {'lat': 47.2286256905746, 'lng': -1.56180639301113}, 'last_update': '2024-01-04 16:37:20'}
+reading data
+{'numbers': 8035, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 19, 'available_bikes': 1, 'address': '54 COURS ALBERT THOMAS', 'status': 'OPEN', 'position': {'lat': 45.747251, 'lng': 4.865386}, 'last_update': '2024-01-04 16:33:28'}
+reading data
+{'numbers': 40, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 21, 'available_bike_stands': 14, 'available_bikes': 7, 'address': 'Quai Moncousu - Pont Général Audibert', 'status': 'OPEN', 'position': {'lat': 47.2088046424378, 'lng': -1.55041191411915}, 'last_update': '2024-01-04 16:33:38'}
+reading data
+{'numbers': 18, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 19, 'available_bikes': 6, 'address': 'GUTENBERG - Square Gutenberg (face n° 5) / Gutenbergsquare (tegenover n° 5)', 'status': 'OPEN', 'position': {'lat': 50.84771, 'lng': 4.377552}, 'last_update': '2024-01-04 16:33:35'}
+reading data
+{'numbers': 4, 'contract_name': 'amiens', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 14, 'available_bikes': 6, 'address': 'Place au Feurre', 'status': 'OPEN', 'position': {'lat': 49.89729029741273, 'lng': 2.297864452413288}, 'last_update': '2024-01-04 16:36:07'}
+reading data
+{'numbers': 177, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 7, 'available_bikes': 17, 'address': 'CHASSEURS ARDENNAIS/ARDENSE JAGERSPLEIN - RUE DU NOYER 81-87 /NOTELAARSSTRAAT 81-87', 'status': 'OPEN', 'position': {'lat': 50.849409, 'lng': 4.389263}, 'last_update': '2024-01-04 16:35:46'}
+reading data
+{'numbers': 187, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 17, 'available_bike_stands': 7, 'available_bikes': 10, 'address': '187 RUE HENRI DESBALS', 'status': 'OPEN', 'position': {'lat': 43.58456, 'lng': 1.415683}, 'last_update': '2024-01-04 16:35:01'}
+reading data
+{'numbers': 87, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 13, 'available_bikes': 12, 'address': '47 BD LASCROSSES', 'status': 'OPEN', 'position': {'lat': 43.609277, 'lng': 1.432157}, 'last_update': '2024-01-04 16:34:38'}
+reading data
+{'numbers': 137, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 14, 'available_bikes': 4, 'address': 'PARC DE GASPERICH-RUE CHARLES DARWIN x RUE FRANCOIS HOGENBERG', 'status': 'OPEN', 'position': {'lat': 49.586766, 'lng': 6.122404}, 'last_update': '2024-01-04 16:36:52'}
+reading data
+{'numbers': 5045, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 10, 'available_bikes': 8, 'address': '64 RUE JEUNET', 'status': 'OPEN', 'position': {'lat': 45.750497, 'lng': 4.788819}, 'last_update': '2024-01-04 16:31:12'}
+reading data
+{'numbers': 175, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 13, 'available_bikes': 12, 'address': 'BEEKKANT - BOULEVARD EDMOND MACHTENS / EDMOND MACHTENSLAAN', 'status': 'OPEN', 'position': {'lat': 50.854166, 'lng': 4.322948}, 'last_update': '2024-01-04 16:36:21'}
+reading data
+{'numbers': 121, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 8, 'address': 'RUE KIEM/RUE DE MAMER', 'status': 'OPEN', 'position': {'lat': 49.617394, 'lng': 6.047817}, 'last_update': '2024-01-04 16:38:24'}
+reading data
+{'numbers': 217, 'contract_name': 'valence', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 19, 'available_bikes': 6, 'address': 'Pintor Stolz - Nueve de Octubre', 'status': 'OPEN', 'position': {'lat': 39.4702960855926, 'lng': -0.404687184457659}, 'last_update': '2024-01-04 16:38:37'}
+reading data
+{'numbers': 76, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 20, 'available_bikes': 0, 'address': 'Tehnološki park', 'status': 'OPEN', 'position': {'lat': 46.04843, 'lng': 14.461086}, 'last_update': '2024-01-04 16:35:16'}
+reading data
+{'numbers': 13001, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 16, 'available_bikes': 4, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.771902, 'lng': 4.955721}, 'last_update': '2024-01-04 16:38:19'}
+reading data
+{'numbers': 11, 'contract_name': 'lund', 'banking': False, 'bike_stands': 24, 'available_bike_stands': 11, 'available_bikes': 12, 'address': '', 'status': 'OPEN', 'position': {'lat': 55.712382, 'lng': 13.208109}, 'last_update': '2024-01-04 16:32:06'}
+reading data
+{'numbers': 81, 'contract_name': 'valence', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 14, 'available_bikes': 6, 'address': 'Micer Mascó - Rodriguez Fornos', 'status': 'OPEN', 'position': {'lat': 39.4750961158493, 'lng': -0.361069056238335}, 'last_update': '2024-01-04 16:34:39'}
+reading data
+{'numbers': 77, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': 'PLAZA CHAPINA - Aprox. Hotel Abba Triana', 'status': 'OPEN', 'position': {'lat': 37.3896294751232, 'lng': -6.00758126354094}, 'last_update': '2024-01-04 16:38:21'}
+reading data
+{'numbers': 28, 'contract_name': 'valence', 'banking': False, 'bike_stands': 29, 'available_bike_stands': 16, 'available_bikes': 12, 'address': 'Navarro Reverter - Grabador Esteve', 'status': 'OPEN', 'position': {'lat': 39.4715501017061, 'lng': -0.367842074631205}, 'last_update': '2024-01-04 16:39:17'}
+reading data
+{'numbers': 131, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': 'CALLE SANTA AMALIA  2, esquina POETA BODRIA', 'status': 'OPEN', 'position': {'lat': 39.481385, 'lng': -0.373003}, 'last_update': '2024-01-04 16:39:04'}
+reading data
+{'numbers': 6035, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 21, 'available_bike_stands': 8, 'available_bikes': 13, 'address': 'Face parvis du palais des congrès', 'status': 'OPEN', 'position': {'lat': 45.785456, 'lng': 4.854085}, 'last_update': '2024-01-04 16:39:41'}
+reading data
+{'numbers': 31, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 15, 'available_bikes': 5, 'address': 'Parnell Street', 'status': 'OPEN', 'position': {'lat': 53.350929, 'lng': -6.265125}, 'last_update': '2024-01-04 16:38:25'}
+reading data
+{'numbers': 308, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 12, 'available_bikes': 7, 'address': 'TIVOLI - RUE DE MOLENBEEK CROISEMENT RUE DE WAUTIER/ KRUISPUNT MOLENBEEKSTRAAT-DE WAUTIERSTRAAT', 'status': 'OPEN', 'position': {'lat': 50.872265, 'lng': 4.352158}, 'last_update': '2024-01-04 16:38:07'}
+reading data
+{'numbers': 75, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 4, 'address': 'BEINCHEN - RUE DU PONT', 'status': 'OPEN', 'position': {'lat': 49.61561, 'lng': 6.13097}, 'last_update': '2024-01-04 16:37:44'}
+reading data
+{'numbers': 1036, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 17, 'available_bike_stands': 2, 'available_bikes': 15, 'address': '158 BVD DE LA CROIX-ROUSSE', 'status': 'OPEN', 'position': {'lat': 45.774366, 'lng': 4.832716}, 'last_update': '2024-01-04 16:36:06'}
+reading data
+{'numbers': 249, 'contract_name': 'seville', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 7, 'address': 'CALLE NAVARRA - Aprox. C/ Cataluña', 'status': 'OPEN', 'position': {'lat': 37.42479904, 'lng': -5.985007801}, 'last_update': '2024-01-04 16:31:25'}
+reading data
+{'numbers': 45, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 13, 'available_bikes': 6, 'address': 'AUBEPINES - VAL SAINTE CROIX / RUE DES AUBEPINES', 'status': 'OPEN', 'position': {'lat': 49.61212, 'lng': 6.09749}, 'last_update': '2024-01-04 16:37:45'}
+reading data
+{'numbers': 6022, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 1, 'available_bikes': 19, 'address': 'Pierre Corneille/cours Franklin Roosevelt', 'status': 'OPEN', 'position': {'lat': 45.769383, 'lng': 4.842364}, 'last_update': '2024-01-04 16:37:48'}
+reading data
+{'numbers': 1, 'contract_name': 'valence', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 19, 'available_bikes': 5, 'address': 'C/GUILLEM DE CASTRO esquina con C/NA JORDANA', 'status': 'OPEN', 'position': {'lat': 39.48001, 'lng': -0.38302}, 'last_update': '2024-01-04 16:39:32'}
+reading data
+{'numbers': 87, 'contract_name': 'seville', 'banking': False, 'bike_stands': 40, 'available_bike_stands': 2, 'available_bikes': 37, 'address': 'PLAZA NUEVA - Aprox. C/ Tetuan', 'status': 'OPEN', 'position': {'lat': 37.388975, 'lng': -5.995202}, 'last_update': '2024-01-04 16:38:56'}
+reading data
+{'numbers': 225, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 13, 'available_bikes': 7, 'address': '4 AV EDOUARD BELIN DEVANT ONERA FACE AU CREPS', 'status': 'OPEN', 'position': {'lat': 43.570117, 'lng': 1.473463}, 'last_update': '2024-01-04 16:31:55'}
+reading data
+{'numbers': 48, 'contract_name': 'valence', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 6, 'available_bikes': 14, 'address': 'Antonio Ferrandis - General Urrutia', 'status': 'OPEN', 'position': {'lat': 39.4507751420051, 'lng': -0.358643429344464}, 'last_update': '2024-01-04 16:36:15'}
+reading data
+{'numbers': 9020, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 12, 'available_bike_stands': 0, 'available_bikes': 12, 'address': 'Angle rue Horand / rue Masset', 'status': 'OPEN', 'position': {'lat': 45.773468, 'lng': 4.800286}, 'last_update': '2024-01-04 16:32:32'}
+reading data
+{'numbers': 350, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 9, 'available_bikes': 13, 'address': 'VERHEYLEWEGHEN - PLACE VERHEYLEWEGHEN DVT LES N°32-34', 'status': 'OPEN', 'position': {'lat': 50.848184, 'lng': 4.425621}, 'last_update': '2024-01-04 16:32:56'}
+reading data
+{'numbers': 7, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 14, 'available_bikes': 11, 'address': 'PARC/PARK - RUE ROYALE  (FACE N°66-68)/KONINGSSTRAAT (TEGENOVER N°66-68)', 'status': 'OPEN', 'position': {'lat': 50.846319, 'lng': 4.362244}, 'last_update': '2024-01-04 16:34:03'}
+reading data
+{'numbers': 98, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 40, 'available_bike_stands': 36, 'available_bikes': 4, 'address': 'Frederick Street South', 'status': 'OPEN', 'position': {'lat': 53.341515, 'lng': -6.256853}, 'last_update': '2024-01-04 16:38:56'}
+reading data
+{'numbers': 121, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 17, 'available_bike_stands': 14, 'available_bikes': 3, 'address': '33 AV HONORE SERRES', 'status': 'OPEN', 'position': {'lat': 43.612627, 'lng': 1.438268}, 'last_update': '2024-01-04 16:38:08'}
+reading data
+{'numbers': 2027, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.746163, 'lng': 4.82548}, 'last_update': '2024-01-04 16:37:04'}
+reading data
+{'numbers': 14, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 18, 'available_bikes': 12, 'address': 'Fownes Street Upper', 'status': 'OPEN', 'position': {'lat': 53.344603, 'lng': -6.263371}, 'last_update': '2024-01-04 16:37:06'}
+reading data
+{'numbers': 2016, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 12, 'available_bike_stands': 4, 'available_bikes': 8, 'address': 'Angle rue Tupin / rue Herriot', 'status': 'OPEN', 'position': {'lat': 45.763065, 'lng': 4.83425}, 'last_update': '2024-01-04 16:35:16'}
+reading data
+{'numbers': 19, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 10, 'available_bikes': 5, 'address': '1, place Saint Similien', 'status': 'OPEN', 'position': {'lat': 47.21985446733, 'lng': -1.55892089047478}, 'last_update': '2024-01-04 16:39:11'}
+reading data
+{'numbers': 84, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 24, 'available_bike_stands': 17, 'available_bikes': 7, 'address': '19T ALL DE BRIENNE', 'status': 'OPEN', 'position': {'lat': 43.605381, 'lng': 1.432485}, 'last_update': '2024-01-04 16:33:54'}
+reading data
+{'numbers': 50017, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 14, 'available_bike_stands': 9, 'available_bikes': 5, 'address': 'RUE NATIONALE ANGLE RUE LEVÈQUE - 95000 CERGY', 'status': 'OPEN', 'position': {'lat': 49.035511, 'lng': 2.061921}, 'last_update': '2024-01-04 16:39:28'}
+reading data
+{'numbers': 66, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 11, 'available_bikes': 9, 'address': 'Koseška cesta', 'status': 'OPEN', 'position': {'lat': 46.068443, 'lng': 14.470913}, 'last_update': '2024-01-04 16:32:13'}
+reading data
+{'numbers': 68, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 8, 'available_bikes': 6, 'address': 'UM SCHLASS - CEINTURE UM SCHLASS', 'status': 'OPEN', 'position': {'lat': 49.57337, 'lng': 6.14397}, 'last_update': '2024-01-04 16:37:01'}
+reading data
+{'numbers': 106, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 6, 'available_bikes': 9, 'address': '2, rue des Garennes', 'status': 'OPEN', 'position': {'lat': 47.202127, 'lng': -1.5787}, 'last_update': '2024-01-04 16:36:37'}
+reading data
+{'numbers': 321, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 11, 'available_bikes': 8, 'address': 'SACRE-CŒUR DE JETTE / HEILIG-HART VAN JETTE - Av. du Sacré-Cœur face n°71 - 79 / Heilig-Hartlaan n°71 - 79', 'status': 'OPEN', 'position': {'lat': 50.884251, 'lng': 4.330287}, 'last_update': '2024-01-04 16:33:05'}
+reading data
+{'numbers': 131, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 19, 'available_bike_stands': 16, 'available_bikes': 3, 'address': '15 RUE PAUL BERNIES', 'status': 'OPEN', 'position': {'lat': 43.611584, 'lng': 1.414669}, 'last_update': '2024-01-04 16:36:25'}
+reading data
+{'numbers': 3080, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 30, 'available_bike_stands': 7, 'available_bikes': 20, 'address': '55 RUE DE LA VILLETTE', 'status': 'OPEN', 'position': {'lat': 45.760042, 'lng': 4.861734}, 'last_update': '2024-01-04 16:36:10'}
+reading data
+{'numbers': 33, 'contract_name': 'vilnius', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 0, 'available_bikes': 0, 'address': 'Konstitucijos pr. (šalia Lietuvos vaikų ir jaunimo centro)', 'status': 'CLOSED', 'position': {'lat': 54.698543, 'lng': 25.26644}, 'last_update': '2023-11-24 10:47:06'}
+reading data
+{'numbers': 330, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 7, 'available_bikes': 17, 'address': 'VANDERVELDE - AVENUE EMILE VANDERVELDE 90', 'status': 'OPEN', 'position': {'lat': 50.847546, 'lng': 4.450015}, 'last_update': '2024-01-04 16:32:56'}
+reading data
+{'numbers': 193, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 11, 'available_bikes': 18, 'address': "GARE DE L'OUEST - CHEE DE NINOVE 207,209 / NINOOFSESTEENWEG 207,209", 'status': 'OPEN', 'position': {'lat': 50.848866, 'lng': 4.320628}, 'last_update': '2024-01-04 16:33:32'}
+reading data
+{'numbers': 14, 'contract_name': 'besancon', 'banking': False, 'bike_stands': 10, 'available_bike_stands': 9, 'available_bikes': 1, 'address': 'Place Jacobins', 'status': 'OPEN', 'position': {'lat': 47.234525, 'lng': 6.033161}, 'last_update': '2024-01-04 16:37:43'}
+reading data
+{'numbers': 112, 'contract_name': 'valence', 'banking': True, 'bike_stands': 40, 'available_bike_stands': 0, 'available_bikes': 40, 'address': 'Manuel Broseta i Pont - Naranjos', 'status': 'OPEN', 'position': {'lat': 39.4785481335207, 'lng': -0.342366002058633}, 'last_update': '2024-01-04 16:35:19'}
+reading data
+{'numbers': 27, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 6, 'address': 'MERCIER - PLACE DE LA GARE / RUE DU COMMERCE / PARKING', 'status': 'OPEN', 'position': {'lat': 49.5986, 'lng': 6.132119}, 'last_update': '2024-01-04 16:37:39'}
+reading data
+{'numbers': 239, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 9, 'available_bikes': 16, 'address': 'ANGLE AVENUE DE LESPINET ET RUE GEORGES BIDAULT', 'status': 'OPEN', 'position': {'lat': 43.576637, 'lng': 1.470245}, 'last_update': '2024-01-04 16:36:09'}
+reading data
+{'numbers': 5029, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 13, 'available_bikes': 7, 'address': 'Prox. Quai Pierre Scize', 'status': 'OPEN', 'position': {'lat': 45.767057, 'lng': 4.827014}, 'last_update': '2024-01-04 16:38:10'}
+reading data
+{'numbers': 1, 'contract_name': 'namur', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 9, 'available_bikes': 6, 'address': '001 - OCTAVE HENRY - RUE DE GEMBLOUX / HALL OMNISPORT', 'status': 'OPEN', 'position': {'lat': 50.47536, 'lng': 4.84661}, 'last_update': '2024-01-04 16:33:53'}
+reading data
+{'numbers': 188, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 5, 'available_bikes': 15, 'address': 'AVENIDA HYTASA - Aprox. C/ Romeral', 'status': 'OPEN', 'position': {'lat': 37.372322, 'lng': -5.963171}, 'last_update': '2024-01-04 16:30:17'}
+reading data
+{'numbers': 79, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 14, 'available_bikes': 8, 'address': "LOI/WET - RUE D'ARLON/STRAAT 120", 'status': 'OPEN', 'position': {'lat': 50.84413, 'lng': 4.374871}, 'last_update': '2024-01-04 16:33:03'}
+reading data
+{'numbers': 1, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 19, 'available_bike_stands': 14, 'available_bikes': 5, 'address': "12 RUE DU POIDS DE L'HUILE", 'status': 'OPEN', 'position': {'lat': 43.60419, 'lng': 1.445475}, 'last_update': '2024-01-04 16:33:06'}
+reading data
+{'numbers': 37, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 0, 'available_bikes': 18, 'address': '53 RUE SAINTE-LUCIE', 'status': 'OPEN', 'position': {'lat': 43.593516, 'lng': 1.430039}, 'last_update': '2024-01-04 16:34:27'}
+reading data
+{'numbers': 7, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 8, 'available_bikes': 17, 'address': '6 RUE DU REMPART VILLENEUVE', 'status': 'OPEN', 'position': {'lat': 43.605777, 'lng': 1.446507}, 'last_update': '2024-01-04 16:36:05'}
+reading data
+{'numbers': 259, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 4, 'available_bikes': 16, 'address': 'PL PAUL RICHE A COTE 231 AV DE FRONTON', 'status': 'OPEN', 'position': {'lat': 43.647504, 'lng': 1.43286}, 'last_update': '2024-01-04 16:37:44'}
+reading data
+{'numbers': 10, 'contract_name': 'vilnius', 'banking': True, 'bike_stands': 9, 'available_bike_stands': 0, 'available_bikes': 0, 'address': 'T. Kosciuškos g.', 'status': 'CLOSED', 'position': {'lat': 54.68866096, 'lng': 25.29316907}, 'last_update': '2023-11-24 11:27:20'}
+reading data
+{'numbers': 114, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 15, 'available_bikes': 10, 'address': 'SAISONS/JAARGETIJDEN  -  AVENUE DES SAISONS 2 / JAARGETIJDENLAAN 2  ( FERMER PROB CONNEXION )', 'status': 'OPEN', 'position': {'lat': 50.820391, 'lng': 4.385358}, 'last_update': '2024-01-04 16:33:07'}
+reading data
+{'numbers': 339, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 15, 'available_bikes': 7, 'address': 'MEUDON - SQUARE MEUDON', 'status': 'OPEN', 'position': {'lat': 50.845365, 'lng': 4.41788}, 'last_update': '2024-01-04 16:33:05'}
+reading data
+{'numbers': 51, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': '5, boulevard de Berlin', 'status': 'OPEN', 'position': {'lat': 47.2141946314965, 'lng': -1.52973588598036}, 'last_update': '2024-01-04 16:36:27'}
+reading data
+{'numbers': 22, 'contract_name': 'mulhouse', 'banking': False, 'bike_stands': 11, 'available_bike_stands': 10, 'available_bikes': 1, 'address': 'Rue de Zillisheim angle Rue St Sauveur', 'status': 'OPEN', 'position': {'lat': 47.742397, 'lng': 7.331582}, 'last_update': '2024-01-04 16:38:15'}
+reading data
+{'numbers': 89, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 14, 'available_bike_stands': 9, 'available_bikes': 5, 'address': '65, boulevard Saint-Aignan', 'status': 'OPEN', 'position': {'lat': 47.2074386375471, 'lng': -1.57868926431099}, 'last_update': '2024-01-04 16:31:26'}
+reading data
+{'numbers': 2004, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 2, 'available_bikes': 16, 'address': '16 PLACE CARNOT', 'status': 'OPEN', 'position': {'lat': 45.750116, 'lng': 4.82801}, 'last_update': '2024-01-04 16:39:46'}
+reading data
+{'numbers': 50004, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 13, 'available_bikes': 2, 'address': 'AVENUE DU BON TEMPS ANGLE AVENUE DU HAZAY - 95000 CERGY', 'status': 'OPEN', 'position': {'lat': 49.052785, 'lng': 2.017956}, 'last_update': '2024-01-04 16:35:30'}
+reading data
+{'numbers': 36, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 18, 'available_bikes': 2, 'address': 'AVENIDA TORNEO - Aprox. C/ Juan de Acre', 'status': 'OPEN', 'position': {'lat': 37.40062, 'lng': -5.998235}, 'last_update': '2024-01-04 16:37:05'}
+reading data
+{'numbers': 112, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 8, 'available_bikes': 7, 'address': '10, rue Marion Cahour - REZÉ', 'status': 'OPEN', 'position': {'lat': 47.188684, 'lng': -1.567201}, 'last_update': '2024-01-04 16:39:09'}
+reading data
+{'numbers': 285, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 8, 'available_bikes': 17, 'address': 'COGHEN - AV COGHEN 1 A 5 / COGHENSTRAAT 1 TOT 5', 'status': 'OPEN', 'position': {'lat': 50.813469, 'lng': 4.338951}, 'last_update': '2024-01-04 16:33:03'}
+reading data
+{'numbers': 122, 'contract_name': 'valence', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 14, 'available_bikes': 1, 'address': 'Músico Hipólito Martínez - Diógenes López Mecho', 'status': 'OPEN', 'position': {'lat': 39.4844531496192, 'lng': -0.354157040555065}, 'last_update': '2024-01-04 16:33:27'}
+reading data
+{'numbers': 38, 'contract_name': 'vilnius', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 0, 'available_bikes': 0, 'address': 'Žirmūnų g. - Minties g. sankryža', 'status': 'CLOSED', 'position': {'lat': 54.705339, 'lng': 25.304181}, 'last_update': '2024-01-04 08:56:59'}
+reading data
+{'numbers': 14001, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 13, 'available_bike_stands': 5, 'available_bikes': 8, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.742932, 'lng': 4.90863}, 'last_update': '2024-01-04 16:34:27'}
+reading data
+{'numbers': 232, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 12, 'available_bikes': 11, 'address': 'DOMAINE / DOMEIN - AV DU DOMAINE (FACE 150) / DOMEINELAAN (VOOR 150)', 'status': 'OPEN', 'position': {'lat': 50.810875, 'lng': 4.329158}, 'last_update': '2024-01-04 16:33:27'}
+reading data
+{'numbers': 50024, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 15, 'available_bikes': 3, 'address': 'Rue des petits prés  95000 CERGY', 'status': 'OPEN', 'position': {'lat': 49.038058, 'lng': 2.070534}, 'last_update': '2024-01-04 16:32:00'}
+reading data
+{'numbers': 234, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 13, 'available_bikes': 2, 'address': '50M APRES 4 RUE PIERRETTE LOUIN', 'status': 'OPEN', 'position': {'lat': 43.628145, 'lng': 1.451413}, 'last_update': '2024-01-04 16:36:05'}
+reading data
+{'numbers': 7009, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 16, 'available_bike_stands': 10, 'available_bikes': 4, 'address': '174–180 Avenue Jean Jaurès 69007 Lyon', 'status': 'OPEN', 'position': {'lat': 45.737503, 'lng': 4.837484}, 'last_update': '2024-01-04 16:39:51'}
+reading data
+{'numbers': 30, 'contract_name': 'namur', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 5, 'available_bikes': 10, 'address': '030 - PLACE LOUISE GODIN- LOUISE GODIN', 'status': 'OPEN', 'position': {'lat': 50.460596, 'lng': 4.842836}, 'last_update': '2024-01-04 16:34:50'}
+reading data
+{'numbers': 23, 'contract_name': 'vilnius', 'banking': True, 'bike_stands': 21, 'available_bike_stands': 0, 'available_bikes': 0, 'address': 'Konstitucijos pr. (Europos aikštė)', 'status': 'CLOSED', 'position': {'lat': 54.69546047, 'lng': 25.2786606}, 'last_update': '2023-11-24 11:46:47'}
+reading data
+{'numbers': 7045, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 21, 'available_bikes': 4, 'address': '40 AV. LECLERC', 'status': 'OPEN', 'position': {'lat': 45.737745, 'lng': 4.824495}, 'last_update': '2024-01-04 16:38:22'}
+reading data
+{'numbers': 243, 'contract_name': 'valence', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 8, 'available_bikes': 10, 'address': 'Albacete - Maluquer', 'status': 'OPEN', 'position': {'lat': 39.4627880667241, 'lng': -0.384633120260506}, 'last_update': '2024-01-04 16:34:37'}
+reading data
+{'numbers': 77, 'contract_name': 'nantes', 'banking': True, 'bike_stands': 32, 'available_bike_stands': 29, 'available_bikes': 3, 'address': '6, quai François Mitterrand', 'status': 'OPEN', 'position': {'lat': 47.2076056402121, 'lng': -1.55753246791432}, 'last_update': '2024-01-04 16:38:19'}
+reading data
+{'numbers': 14, 'contract_name': 'mulhouse', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 9, 'available_bikes': 9, 'address': 'Av Robert Schuman angle Rue de Stalingrad', 'status': 'OPEN', 'position': {'lat': 47.75243, 'lng': 7.342944}, 'last_update': '2024-01-04 16:35:44'}
+reading data
+{'numbers': 192, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 17, 'available_bikes': 3, 'address': '355 ROUTE DE SAINT-SIMON', 'status': 'OPEN', 'position': {'lat': 43.587845, 'lng': 1.409785}, 'last_update': '2024-01-04 16:39:27'}
+reading data
+{'numbers': 38, 'contract_name': 'mulhouse', 'banking': False, 'bike_stands': 10, 'available_bike_stands': 6, 'available_bikes': 4, 'address': 'RUE DE LA WANNE, angle RUE KOECHLIN', 'status': 'OPEN', 'position': {'lat': 47.743132, 'lng': 7.352147}, 'last_update': '2024-01-04 16:37:21'}
+reading data
+{'numbers': 24, 'contract_name': 'amiens', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 11, 'available_bikes': 9, 'address': 'Boulevard Faidherbe', 'status': 'OPEN', 'position': {'lat': 49.8941349276388, 'lng': 2.28705404866028}, 'last_update': '2024-01-04 16:35:39'}
+reading data
+{'numbers': 220, 'contract_name': 'seville', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 14, 'available_bikes': 15, 'address': 'AVENIDA ALCALDE LUIS URUÑUELA - Aprox. Centro Comercial Zona Este', 'status': 'OPEN', 'position': {'lat': 37.40499435, 'lng': -5.9358102}, 'last_update': '2024-01-04 16:31:34'}
+reading data
+{'numbers': 48, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 32, 'available_bike_stands': 9, 'available_bikes': 23, 'address': '18 PL DU SALIN', 'status': 'OPEN', 'position': {'lat': 43.594461, 'lng': 1.443822}, 'last_update': '2024-01-04 16:38:19'}
+reading data
+{'numbers': 2, 'contract_name': 'toyama', 'banking': False, 'bike_stands': 16, 'available_bike_stands': 6, 'available_bikes': 10, 'address': '牛島町１７番 17 Ushijima-cho', 'status': 'OPEN', 'position': {'lat': 36.702375, 'lng': 137.214502}, 'last_update': '2024-01-04 16:38:17'}
+reading data
+{'numbers': 82, 'contract_name': 'valence', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 13, 'available_bikes': 2, 'address': 'Guillem de Castro (Torres de Quart)', 'status': 'OPEN', 'position': {'lat': 39.4760241115844, 'lng': -0.384005125495213}, 'last_update': '2024-01-04 16:36:13'}
+reading data
+{'numbers': 165, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 1, 'available_bikes': 19, 'address': 'Pavía - Espadán', 'status': 'OPEN', 'position': {'lat': 39.4713771150833, 'lng': -0.324660945171817}, 'last_update': '2024-01-04 16:36:59'}
+reading data
+{'numbers': 6, 'contract_name': 'lund', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 7, 'available_bikes': 13, 'address': '', 'status': 'OPEN', 'position': {'lat': 55.7008134312229, 'lng': 13.1956234574318}, 'last_update': '2024-01-04 16:32:30'}
+reading data
+{'numbers': 25, 'contract_name': 'amiens', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 8, 'available_bikes': 12, 'address': 'Bd des Fédérés', 'status': 'OPEN', 'position': {'lat': 49.896862536806346, 'lng': 2.282867747579433}, 'last_update': '2024-01-04 16:33:26'}
+reading data
+{'numbers': 1, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 31, 'available_bike_stands': 15, 'available_bikes': 16, 'address': 'Clarendon Row', 'status': 'OPEN', 'position': {'lat': 53.340927, 'lng': -6.262501}, 'last_update': '2024-01-04 16:39:03'}
+reading data
+{'numbers': 106, 'contract_name': 'valence', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 1, 'available_bikes': 24, 'address': 'Albalat dels Tarongers - Professor Ernest Lluch', 'status': 'OPEN', 'position': {'lat': 39.4767121276205, 'lng': -0.341477998410525}, 'last_update': '2024-01-04 16:37:18'}
+reading data
+{'numbers': 191, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 24, 'available_bike_stands': 9, 'available_bikes': 15, 'address': 'ARTAN - RUE CLAYS', 'status': 'OPEN', 'position': {'lat': 50.853973, 'lng': 4.38374}, 'last_update': '2024-01-04 16:33:01'}
+reading data
+{'numbers': 3101, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 19, 'available_bikes': 1, 'address': '55 RUE DE BARABAN', 'status': 'OPEN', 'position': {'lat': 45.762055, 'lng': 4.868486}, 'last_update': '2024-01-04 16:34:30'}
+reading data
+{'numbers': 265, 'contract_name': 'valence', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 15, 'available_bikes': 0, 'address': 'Alcasser - Poeta Alberto Lista', 'status': 'OPEN', 'position': {'lat': 39.4709410866358, 'lng': -0.408208195369257}, 'last_update': '2024-01-04 16:36:11'}
+reading data
+{'numbers': 19, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': 'Celovška cesta 26', 'status': 'OPEN', 'position': {'lat': 46.05952, 'lng': 14.4982}, 'last_update': '2024-01-04 16:34:30'}
+reading data
+{'numbers': 4021, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 10, 'available_bike_stands': 1, 'available_bikes': 9, 'address': 'Angle Bvd de la Croix-Rousse', 'status': 'OPEN', 'position': {'lat': 45.774061, 'lng': 4.82516}, 'last_update': '2024-01-04 16:34:21'}
+reading data
+{'numbers': 53002, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 11, 'available_bikes': 9, 'address': 'Place de la Libération côté avenue de Verdun - 95300 PONTOISE', 'status': 'OPEN', 'position': {'lat': 49.044395, 'lng': 2.090632}, 'last_update': '2024-01-04 16:38:54'}
+reading data
+{'numbers': 266, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': 'Fray Marcos de Niza después de Calle Alvar Núñez Cabeza de Vaca', 'status': 'OPEN', 'position': {'lat': 37.400136, 'lng': -5.952644}, 'last_update': '2024-01-04 16:33:39'}
+reading data
+{'numbers': 21, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 15, 'available_bikes': 4, 'address': 'CALLE MANUEL VILLALOBOS - Aprox. C/ Madre San Marcelo', 'status': 'OPEN', 'position': {'lat': 37.4054735478923, 'lng': -5.98152718123615}, 'last_update': '2024-01-04 16:37:36'}
+reading data
+{'numbers': 50026, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 16, 'available_bikes': 3, 'address': 'Chaussée Jules César, 95520 Osny', 'status': 'OPEN', 'position': {'lat': 49.051104, 'lng': 2.069419}, 'last_update': '2024-01-04 16:34:02'}
+reading data
+{'numbers': 175, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 30, 'available_bike_stands': 24, 'available_bikes': 6, 'address': 'FACE 52 AV BOURGES MAUNOURY', 'status': 'OPEN', 'position': {'lat': 43.639633, 'lng': 1.452569}, 'last_update': '2024-01-04 16:33:19'}
+reading data
+{'numbers': 266, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 12, 'available_bikes': 8, 'address': '38 RUE DE LA TOURAINE', 'status': 'OPEN', 'position': {'lat': 43.573708, 'lng': 1.41394}, 'last_update': '2024-01-04 16:34:15'}
+reading data
+{'numbers': 143, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': 'Pl. de la Mairie', 'status': 'OPEN', 'position': {'lat': 49.658862, 'lng': 6.130167}, 'last_update': '2024-01-04 16:39:43'}
+reading data
+{'numbers': 42, 'contract_name': 'nantes', 'banking': True, 'bike_stands': 28, 'available_bike_stands': 18, 'available_bikes': 10, 'address': 'Quai Ernest Renaud - Place Jacksonville', 'status': 'OPEN', 'position': {'lat': 47.2065977289879, 'lng': -1.5726102869705}, 'last_update': '2024-01-04 16:37:12'}
+reading data
+{'numbers': 87, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 9, 'available_bikes': 6, 'address': '41, rue Alexandre Dumas - Place Anatole France', 'status': 'OPEN', 'position': {'lat': 47.2236048153991, 'lng': -1.57137357811241}, 'last_update': '2024-01-04 16:37:05'}
+reading data
+{'numbers': 221, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 15, 'available_bikes': 10, 'address': 'CURIE - SQUARE MARIE CURIE (FACE 30) / MARIE CURIE SQUARE (TEGENOVER 30)', 'status': 'OPEN', 'position': {'lat': 50.821846, 'lng': 4.284394}, 'last_update': '2024-01-04 16:33:03'}
+reading data
+{'numbers': 9, 'contract_name': 'mulhouse', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 8, 'address': 'BOULEVARD CHARLES STOESSEL', 'status': 'OPEN', 'position': {'lat': 47.745105, 'lng': 7.329143}, 'last_update': '2024-01-04 16:32:05'}
+reading data
+{'numbers': 153, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 10, 'available_bikes': 15, 'address': 'SQUARE ARMAND STEURS/ARMAND STEURSSQUARE - AVENUE PAUL DESCHANEL (FACE N° 267 - 269) / PAUL DESCHANELLAAN (TEGENOVER 267 - 269)', 'status': 'OPEN', 'position': {'lat': 50.854128, 'lng': 4.378002}, 'last_update': '2024-01-04 16:37:42'}
+reading data
+{'numbers': 3103, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 8, 'available_bikes': 10, 'address': '3 PLACE DANTON', 'status': 'OPEN', 'position': {'lat': 45.7548502313005, 'lng': 4.85748756866509}, 'last_update': '2024-01-04 16:36:23'}
+reading data
+{'numbers': 47, 'contract_name': 'nantes', 'banking': True, 'bike_stands': 27, 'available_bike_stands': 18, 'available_bikes': 9, 'address': '1, boulevard des Martyrs Nantais de la Résistance', 'status': 'OPEN', 'position': {'lat': 47.206933, 'lng': -1.548169}, 'last_update': '2024-01-04 16:39:47'}
+reading data
+{'numbers': 62, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 7, 'available_bikes': 12, 'address': 'LEYDENBACH - RUE LEYDENBACH / RUE DES LABOURS', 'status': 'OPEN', 'position': {'lat': 49.62915, 'lng': 6.173101}, 'last_update': '2024-01-04 16:39:28'}
+reading data
+{'numbers': 115, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 5, 'available_bikes': 10, 'address': "CENTRE CULTUREL CAP - ROUTE D'ARLON N°49 / PLACE DE L'EGLISE", 'status': 'OPEN', 'position': {'lat': 49.645239, 'lng': 5.987938}, 'last_update': '2024-01-04 16:38:59'}
+reading data
+{'numbers': 82, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': 'GARE CENTS-HAMM - RUE DES ALOUETTES / GARE DE CENTS-HAMM', 'status': 'OPEN', 'position': {'lat': 49.614749, 'lng': 6.164772}, 'last_update': '2024-01-04 16:39:37'}
+reading data
+{'numbers': 6031, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 13, 'available_bike_stands': 9, 'available_bikes': 4, 'address': 'Angle cours Lafayette', 'status': 'OPEN', 'position': {'lat': 45.763717, 'lng': 4.843791}, 'last_update': '2024-01-04 16:37:38'}
+reading data
+{'numbers': 238, 'contract_name': 'valence', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 13, 'available_bikes': 2, 'address': 'San Jose Artesano - Francisco Morote Greus', 'status': 'OPEN', 'position': {'lat': 39.4974171803837, 'lng': -0.394474168343446}, 'last_update': '2024-01-04 16:39:07'}
+reading data
+{'numbers': 154, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': 'AVENIDA KANSAS CITY - Aprox. C/ Naranjito de Triana', 'status': 'OPEN', 'position': {'lat': 37.396293, 'lng': -5.966638}, 'last_update': '2024-01-04 16:36:07'}
+reading data
+{'numbers': 97, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 14, 'available_bikes': 7, 'address': 'KARREVELD - CHAUSSEE DE GAND/ GENTSESTEENWEG 1-3', 'status': 'OPEN', 'position': {'lat': 50.858058, 'lng': 4.318689}, 'last_update': '2023-12-23 13:13:03'}
+reading data
+{'numbers': 166, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 0, 'available_bikes': 20, 'address': '23 RUE GUYOU', 'status': 'OPEN', 'position': {'lat': 43.57421, 'lng': 1.462367}, 'last_update': '2024-01-04 16:34:08'}
+reading data
+{'numbers': 169, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 11, 'available_bikes': 14, 'address': 'GEORGES EEKHOUD - AVENUE GEORGES EEKHOUD/GEORGES EEKHOUDLAAN 56', 'status': 'OPEN', 'position': {'lat': 50.877125, 'lng': 4.387515}, 'last_update': '2024-01-04 16:32:49'}
+reading data
+{'numbers': 135, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 6, 'available_bikes': 12, 'address': '179 RUE DU FAUBOURG BONNEFOY', 'status': 'OPEN', 'position': {'lat': 43.622963, 'lng': 1.458647}, 'last_update': '2024-01-04 16:31:25'}
+reading data
+{'numbers': 109, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 21, 'available_bike_stands': 15, 'available_bikes': 6, 'address': 'Face 31, boulevard Emile Gabory', 'status': 'OPEN', 'position': {'lat': 47.19426, 'lng': -1.529313}, 'last_update': '2024-01-04 16:32:01'}
+reading data
+{'numbers': 43, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 18, 'available_bikes': 7, 'address': 'JOSEPH II/JOZEF II - RUE JOSEPH II/JOZEF II-STRAAT', 'status': 'OPEN', 'position': {'lat': 50.845256, 'lng': 4.374501}, 'last_update': '2024-01-04 16:32:56'}
+reading data
+{'numbers': 28, 'contract_name': 'namur', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 12, 'available_bikes': 3, 'address': '028 - EXPO - AV SGT VRITHOFF FACE PALAIS DES EXPO', 'status': 'OPEN', 'position': {'lat': 50.46675, 'lng': 4.84834}, 'last_update': '2024-01-04 16:34:31'}
+reading data
+{'numbers': 63, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 3, 'available_bikes': 17, 'address': 'Av Puerto 19 (Telefónica)', 'status': 'OPEN', 'position': {'lat': 39.4677470918986, 'lng': -0.358505044597536}, 'last_update': '2024-01-04 16:39:43'}
+reading data
+{'numbers': 47, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 8, 'available_bikes': 12, 'address': 'Autopista del Saler - Puente Monteolivete', 'status': 'OPEN', 'position': {'lat': 39.4564800548746, 'lng': -0.355509029538065}, 'last_update': '2024-01-04 16:30:32'}
+reading data
+{'numbers': 79, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 14, 'available_bikes': 6, 'address': '1 PL LANGE', 'status': 'OPEN', 'position': {'lat': 43.601016, 'lng': 1.434129}, 'last_update': '2024-01-04 16:37:09'}
+reading data
+{'numbers': 9049, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 16, 'available_bike_stands': 10, 'available_bikes': 6, 'address': '23 RUE GORGE DE LOUP', 'status': 'OPEN', 'position': {'lat': 45.770136, 'lng': 4.80516}, 'last_update': '2024-01-04 16:37:47'}
+reading data
+{'numbers': 102, 'contract_name': 'nantes', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 8, 'available_bikes': 12, 'address': 'Rue de la Gare - REZÉ', 'status': 'OPEN', 'position': {'lat': 47.19316, 'lng': -1.549212}, 'last_update': '2024-01-04 16:38:07'}
+reading data
+{'numbers': 13, 'contract_name': 'maribor', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 9, 'available_bikes': 11, 'address': 'Partizanska cesta 46-48', 'status': 'OPEN', 'position': {'lat': 46.561555, 'lng': 15.65692}, 'last_update': '2024-01-04 16:39:24'}
+reading data
+{'numbers': 119, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 8, 'available_bikes': 4, 'address': 'RUE HENRI DUNANT à coté du n°45 à 8024 STRASSEN', 'status': 'OPEN', 'position': {'lat': 49.619953, 'lng': 6.063326}, 'last_update': '2024-01-04 16:38:45'}
+reading data
+{'numbers': 3017, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 37, 'available_bike_stands': 27, 'available_bikes': 10, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.760912, 'lng': 4.845291}, 'last_update': '2024-01-04 16:34:40'}
+reading data
+{'numbers': 56, 'contract_name': 'valence', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 8, 'available_bikes': 7, 'address': 'Francia - Menorca', 'status': 'OPEN', 'position': {'lat': 39.4583890648843, 'lng': -0.344495997567289}, 'last_update': '2024-01-04 16:38:03'}
+reading data
+{'numbers': 210, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 16, 'available_bikes': 2, 'address': 'FACE 42 CHE DE LA TERRASSE', 'status': 'OPEN', 'position': {'lat': 43.586086, 'lng': 1.482942}, 'last_update': '2024-01-04 16:37:24'}
+reading data
+{'numbers': 1, 'contract_name': 'creteil', 'banking': True, 'bike_stands': 26, 'available_bike_stands': 20, 'available_bikes': 6, 'address': 'AVENUE DU MARECHAL DE LATTRE DE TASSIGNY', 'status': 'OPEN', 'position': {'lat': 48.7988350967829, 'lng': 2.45387633773323}, 'last_update': '2024-01-04 16:31:40'}
+reading data
+{'numbers': 82, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 7, 'address': 'PANNENHUIS - RUE CHARLES DEMEER/CHARLES DEMEERSTRAAT  71', 'status': 'OPEN', 'position': {'lat': 50.872811, 'lng': 4.341149}, 'last_update': '2024-01-04 16:32:48'}
+reading data
+{'numbers': 9009, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 12, 'available_bikes': 3, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.801192, 'lng': 4.825451}, 'last_update': '2024-01-04 16:29:58'}
+reading data
+{'numbers': 113, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 21, 'available_bike_stands': 10, 'available_bikes': 11, 'address': 'Place Jean-Baptiste Daviais - REZÉ', 'status': 'OPEN', 'position': {'lat': 47.191117, 'lng': -1.569362}, 'last_update': '2024-01-04 16:38:31'}
+reading data
+{'numbers': 227, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 13, 'available_bikes': 7, 'address': 'San Clemente - Hospital Arnau de Vilanova', 'status': 'OPEN', 'position': {'lat': 39.4902161533539, 'lng': -0.403022190134151}, 'last_update': '2024-01-04 16:38:38'}
+reading data
+{'numbers': 75, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 21, 'available_bike_stands': 16, 'available_bikes': 5, 'address': '12 PLACE LAGANNE', 'status': 'OPEN', 'position': {'lat': 43.59859, 'lng': 1.436594}, 'last_update': '2024-01-04 16:33:42'}
+reading data
+{'numbers': 24, 'contract_name': 'seville', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 15, 'available_bikes': 0, 'address': 'Calle Fray Isidoro de Sevilla - Aprox C/ Álvarez Chanca', 'status': 'OPEN', 'position': {'lat': 37.4040355410348, 'lng': -5.98459219116038}, 'last_update': '2024-01-04 16:35:03'}
+reading data
+{'numbers': 38, 'contract_name': 'seville', 'banking': False, 'bike_stands': 40, 'available_bike_stands': 23, 'available_bikes': 17, 'address': 'CALLE DE INCA GARCILASO - Aprox. C/ Juan Antonio de Vizarrón', 'status': 'OPEN', 'position': {'lat': 37.3920814836453, 'lng': -6.01105127713079}, 'last_update': '2024-01-04 16:39:44'}
+reading data
+{'numbers': 97, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 5, 'available_bikes': 14, 'address': "Place du 51ème Régiment d'Artillerie", 'status': 'OPEN', 'position': {'lat': 47.2290880870929, 'lng': -1.54029259428922}, 'last_update': '2024-01-04 16:30:37'}
+reading data
+{'numbers': 20, 'contract_name': 'maribor', 'banking': False, 'bike_stands': 21, 'available_bike_stands': 5, 'available_bikes': 16, 'address': 'Pobreška cesta 18', 'status': 'OPEN', 'position': {'lat': 46.554703, 'lng': 15.652826}, 'last_update': '2024-01-04 16:37:03'}
+reading data
+{'numbers': 232, 'contract_name': 'valence', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 11, 'available_bikes': 4, 'address': 'San Vicente Paul - Santiago Rusiñol', 'status': 'OPEN', 'position': {'lat': 39.4946121801023, 'lng': -0.365844081019678}, 'last_update': '2024-01-04 16:33:33'}
+reading data
+{'numbers': 100, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 44, 'available_bike_stands': 30, 'available_bikes': 5, 'address': 'GARE DE LUXEMBOURG / LUXEMBURGSTATION - Rue de Trèves / Trierstraat', 'status': 'OPEN', 'position': {'lat': 50.838411, 'lng': 4.37302}, 'last_update': '2024-01-04 16:37:33'}
+reading data
+{'numbers': 169, 'contract_name': 'valence', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 0, 'available_bikes': 20, 'address': 'Pavía (Instituto Isabel de Villena)', 'status': 'OPEN', 'position': {'lat': 39.4787531399051, 'lng': -0.324735949373236}, 'last_update': '2024-01-04 16:30:48'}
+reading data
+{'numbers': 203, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 8, 'address': 'CALLE TESALÓNICA - Calle Mazzantini', 'status': 'OPEN', 'position': {'lat': 37.3960935188026, 'lng': -5.95876409601682}, 'last_update': '2024-01-04 16:34:14'}
+reading data
+{'numbers': 10021, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 19, 'available_bike_stands': 17, 'available_bikes': 2, 'address': 'Angle cours Tolstoï', 'status': 'OPEN', 'position': {'lat': 45.759743, 'lng': 4.889938}, 'last_update': '2024-01-04 16:33:45'}
+reading data
+{'numbers': 22, 'contract_name': 'besancon', 'banking': False, 'bike_stands': 12, 'available_bike_stands': 6, 'available_bikes': 6, 'address': 'Place de la Liberté', 'status': 'OPEN', 'position': {'lat': 47.247455, 'lng': 6.028569}, 'last_update': '2024-01-04 16:37:45'}
+reading data
+{'numbers': 1, 'contract_name': 'nancy', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 15, 'available_bikes': 10, 'address': 'Angle rue Pierre FOURIER et rue des Dominicains', 'status': 'OPEN', 'position': {'lat': 48.6924654452072, 'lng': 6.18340055389445}, 'last_update': '2024-01-04 16:38:37'}
+reading data
+{'numbers': 58, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 43, 'available_bike_stands': 16, 'available_bikes': 17, 'address': 'GARE DU NORD/NOORDSTATION - PLACE DU NORD / NOORDPLAATS', 'status': 'OPEN', 'position': {'lat': 50.859181, 'lng': 4.35942}, 'last_update': '2024-01-04 16:36:08'}
+reading data
+{'numbers': 25, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 21, 'available_bike_stands': 5, 'available_bikes': 16, 'address': 'Zaloška cesta 54', 'status': 'OPEN', 'position': {'lat': 46.055801, 'lng': 14.534156}, 'last_update': '2024-01-04 16:36:07'}
+reading data
+{'numbers': 30, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 33, 'available_bike_stands': 4, 'available_bikes': 29, 'address': 'Place du Commerce - Cours Franklin Roosevelt', 'status': 'OPEN', 'position': {'lat': 47.2138876911855, 'lng': -1.5555053519911}, 'last_update': '2024-01-04 16:39:01'}
+reading data
+{'numbers': 7023, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 15, 'available_bikes': 0, 'address': 'Route de Vienne - Angle avenue Berthelot', 'status': 'OPEN', 'position': {'lat': 45.742639, 'lng': 4.850538}, 'last_update': '2024-01-04 16:37:11'}
+reading data
+{'numbers': 6044, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 16, 'available_bike_stands': 11, 'available_bikes': 5, 'address': '23 RUE DE LA VIABERT', 'status': 'OPEN', 'position': {'lat': 45.766372, 'lng': 4.865058}, 'last_update': '2024-01-04 16:38:31'}
+reading data
+{'numbers': 33, 'contract_name': 'nancy', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 11, 'available_bikes': 4, 'address': '9 av Paul Déroulède', 'status': 'OPEN', 'position': {'lat': 48.684954, 'lng': 6.154908}, 'last_update': '2024-01-04 16:37:17'}
+reading data
+{'numbers': 234, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 17, 'available_bikes': 8, 'address': 'ST DENIS / ST DENIJS - PLACE ST DENIS FACE 68 / ST DENIJSPLAATS VOOR 68', 'status': 'OPEN', 'position': {'lat': 50.809799, 'lng': 4.317546}, 'last_update': '2024-01-04 16:32:58'}
+reading data
+{'numbers': 56, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 13, 'available_bikes': 2, 'address': '9, rue François Albert', 'status': 'OPEN', 'position': {'lat': 47.2067986185753, 'lng': -1.54177773985064}, 'last_update': '2024-01-04 16:38:15'}
+reading data
+{'numbers': 3008, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 15, 'available_bikes': 3, 'address': '105 COURS ALBERT THOMAS', 'status': 'OPEN', 'position': {'lat': 45.745828, 'lng': 4.870631}, 'last_update': '2024-01-04 16:30:19'}
+reading data
+{'numbers': 1, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 8, 'available_bikes': 12, 'address': 'LEON XIII-RUE DE BONNEVOIE ( DEVANT N° 103 )', 'status': 'OPEN', 'position': {'lat': 49.598211, 'lng': 6.137526}, 'last_update': '2024-01-04 16:39:15'}
+reading data
+{'numbers': 53101, 'contract_name': 'cergy-pontoise', 'banking': False, 'bike_stands': 19, 'available_bike_stands': 12, 'available_bikes': 7, 'address': "Place Carnot côté quai de l'Ecluse ou halage - 95310 SAINT OUEN L'AUMONE", 'status': 'OPEN', 'position': {'lat': 49.0477806094296, 'lng': 2.10303772616957}, 'last_update': '2024-01-04 16:38:34'}
+reading data
+{'numbers': 24, 'contract_name': 'namur', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 8, 'address': '024 - SAINT-AUBAIN - RUE DU COLLEGE / PLACE SAINT-AUBIN', 'status': 'OPEN', 'position': {'lat': 50.46387, 'lng': 4.861142}, 'last_update': '2024-01-04 16:33:15'}
+reading data
+{'numbers': 14, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 12, 'available_bikes': 7, 'address': 'KNUEDLER - PLACE GUILLAUME', 'status': 'OPEN', 'position': {'lat': 49.610126, 'lng': 6.132084}, 'last_update': '2024-01-04 16:39:36'}
+reading data
+{'numbers': 115, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 16, 'available_bikes': 2, 'address': '8 ALL DES DEMOISELLES', 'status': 'OPEN', 'position': {'lat': 43.590692, 'lng': 1.453224}, 'last_update': '2024-01-04 16:39:47'}
+reading data
+{'numbers': 123, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 11, 'available_bikes': 8, 'address': "Route d'Arlon/Shopping Belle Etoile", 'status': 'OPEN', 'position': {'lat': 49.62187, 'lng': 6.051072}, 'last_update': '2024-01-04 16:35:52'}
+reading data
+{'numbers': 23, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 8, 'available_bikes': 22, 'address': 'Custom House', 'status': 'OPEN', 'position': {'lat': 53.348279, 'lng': -6.254662}, 'last_update': '2024-01-04 16:36:00'}
+reading data
+{'numbers': 23, 'contract_name': 'besancon', 'banking': False, 'bike_stands': 12, 'available_bike_stands': 7, 'available_bikes': 5, 'address': 'Rue Charles NODIER Sortie du tunnel, direction Morne', 'status': 'OPEN', 'position': {'lat': 47.232189, 'lng': 6.034991}, 'last_update': '2024-01-04 16:36:30'}
+reading data
+{'numbers': 221, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 15, 'available_bikes': 5, 'address': 'FACE 85 RUE VAUQUELIN', 'status': 'OPEN', 'position': {'lat': 43.576221, 'lng': 1.406355}, 'last_update': '2024-01-04 16:32:43'}
+reading data
+{'numbers': 17, 'contract_name': 'mulhouse', 'banking': True, 'bike_stands': 28, 'available_bike_stands': 25, 'available_bikes': 3, 'address': 'Rue de la Lanterne contre Temple St ETIENNE', 'status': 'OPEN', 'position': {'lat': 47.747038, 'lng': 7.338923}, 'last_update': '2024-01-04 16:33:56'}
+reading data
+{'numbers': 269, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 10, 'available_bikes': 15, 'address': 'CICERON - CHAUSSÉE DE LOUVAIN / LEUVENSESTEENWEG 951', 'status': 'OPEN', 'position': {'lat': 50.860925, 'lng': 4.421374}, 'last_update': '2024-01-04 16:32:50'}
+reading data
+{'numbers': 49, 'contract_name': 'valence', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 13, 'available_bikes': 12, 'address': 'Ricardo Muñoz Suay - María José Victoria Fuster (C.C. El Saler)', 'status': 'OPEN', 'position': {'lat': 39.4529547221767, 'lng': -0.35720111550767}, 'last_update': '2024-01-04 16:31:05'}
+reading data
+{'numbers': 319, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 12, 'available_bikes': 8, 'address': "ANCIENNE BARRIERE / OUDE AFSPANNINGSPLEIN - PLACE DE L'ANCIENNE BARRIERE FACE 10", 'status': 'OPEN', 'position': {'lat': 50.885197, 'lng': 4.317648}, 'last_update': '2024-01-04 16:39:17'}
+reading data
+{'numbers': 195, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 12, 'available_bikes': 8, 'address': 'CALLE CORRAL DEL AGUA - Aprox. Camino de los toros', 'status': 'OPEN', 'position': {'lat': 37.421626, 'lng': -5.971503}, 'last_update': '2024-01-04 16:36:35'}
+reading data
+{'numbers': 121, 'contract_name': 'valence', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 7, 'available_bikes': 8, 'address': 'Murta - Sant Eperit', 'status': 'OPEN', 'position': {'lat': 39.4861501538243, 'lng': -0.358862055563278}, 'last_update': '2024-01-04 16:35:13'}
+reading data
+{'numbers': 4, 'contract_name': 'maribor', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 16, 'available_bikes': 4, 'address': 'Strossmayerjeva ulica 3', 'status': 'OPEN', 'position': {'lat': 46.558498, 'lng': 15.64146}, 'last_update': '2024-01-04 16:38:26'}
+reading data
+{'numbers': 128, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 23, 'available_bike_stands': 6, 'available_bikes': 17, 'address': '18 B GRANDE RUE ST MICHEL', 'status': 'OPEN', 'position': {'lat': 43.58585, 'lng': 1.447374}, 'last_update': '2024-01-04 16:39:51'}
+reading data
+{'numbers': 3040, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 35, 'available_bike_stands': 19, 'available_bikes': 16, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.753528, 'lng': 4.857784}, 'last_update': '2024-01-04 16:38:13'}
+reading data
+{'numbers': 110, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 11, 'available_bikes': 9, 'address': '1, avenue de Bretagne - REZÉ', 'status': 'OPEN', 'position': {'lat': 47.185402, 'lng': -1.554025}, 'last_update': '2024-01-04 16:32:05'}
+reading data
+{'numbers': 8042, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 22, 'available_bike_stands': 10, 'available_bikes': 11, 'address': '73 RUE CAZENEUVE', 'status': 'OPEN', 'position': {'lat': 45.731361, 'lng': 4.860139}, 'last_update': '2024-01-04 16:38:42'}
+reading data
+{'numbers': 256, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 24, 'available_bike_stands': 11, 'available_bikes': 13, 'address': 'VAN OVERBEKE / AV VAN OVERBEKE / VAN OVERBEKELAAN', 'status': 'OPEN', 'position': {'lat': 50.874767, 'lng': 4.308977}, 'last_update': '2024-01-04 16:31:11'}
+reading data
+{'numbers': 9044, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 16, 'available_bike_stands': 5, 'available_bikes': 11, 'address': '20 AV. JOANNES MASSET', 'status': 'OPEN', 'position': {'lat': 45.770508, 'lng': 4.800869}, 'last_update': '2024-01-04 16:38:55'}
+reading data
+{'numbers': 20, 'contract_name': 'mulhouse', 'banking': False, 'bike_stands': 12, 'available_bike_stands': 6, 'available_bikes': 6, 'address': 'Allee Nathan Katz Parvis de la Filature', 'status': 'OPEN', 'position': {'lat': 47.753533915217425, 'lng': 7.348462912266421}, 'last_update': '2024-01-04 16:31:24'}
+reading data
+{'numbers': 12, 'contract_name': 'seville', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 22, 'available_bikes': 7, 'address': 'PLAZA DUQUESA DE ALBA - Puente de la Barqueta', 'status': 'OPEN', 'position': {'lat': 37.4038695366056, 'lng': -5.99490422724963}, 'last_update': '2024-01-04 16:39:05'}
+reading data
+{'numbers': 6, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 18, 'available_bikes': 0, 'address': 'Grudnovo nabrežje 3', 'status': 'OPEN', 'position': {'lat': 46.045748, 'lng': 14.506196}, 'last_update': '2024-01-04 16:37:35'}
+reading data
+{'numbers': 131, 'contract_name': 'luxembourg', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 10, 'available_bikes': 10, 'address': 'Rue Gaston Thorn 6', 'status': 'OPEN', 'position': {'lat': 49.618073, 'lng': 6.037591}, 'last_update': '2024-01-04 16:38:14'}
+reading data
+{'numbers': 67, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 22, 'available_bike_stands': 15, 'available_bikes': 7, 'address': '35 ALL JULES GUESDE', 'status': 'OPEN', 'position': {'lat': 43.594812, 'lng': 1.449176}, 'last_update': '2024-01-04 16:36:52'}
+reading data
+{'numbers': 9, 'contract_name': 'lund', 'banking': False, 'bike_stands': 30, 'available_bike_stands': 8, 'available_bikes': 21, 'address': '', 'status': 'OPEN', 'position': {'lat': 55.7128579364781, 'lng': 13.1967929005623}, 'last_update': '2024-01-04 16:31:50'}
+reading data
+{'numbers': 51, 'contract_name': 'ljubljana', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 7, 'available_bikes': 13, 'address': 'Litijska cesta 53', 'status': 'OPEN', 'position': {'lat': 46.047689, 'lng': 14.547416}, 'last_update': '2024-01-04 16:36:17'}
+reading data
+{'numbers': 241, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 2, 'available_bikes': 17, 'address': 'PLAZA NUEVA - Aprox. C/ Mendez Núñez', 'status': 'OPEN', 'position': {'lat': 37.388882, 'lng': -5.996237}, 'last_update': '2024-01-04 16:32:01'}
+reading data
+{'numbers': 106, 'contract_name': 'dublin', 'banking': False, 'bike_stands': 40, 'available_bike_stands': 26, 'available_bikes': 14, 'address': 'Rathdown Road', 'status': 'OPEN', 'position': {'lat': 53.35893, 'lng': -6.280337}, 'last_update': '2024-01-04 16:33:31'}
+reading data
+{'numbers': 143, 'contract_name': 'valence', 'banking': True, 'bike_stands': 30, 'available_bike_stands': 20, 'available_bikes': 10, 'address': 'Pio XII - Menéndez PIdal (Nuevo Centro)', 'status': 'OPEN', 'position': {'lat': 39.4795051210676, 'lng': -0.391027148421504}, 'last_update': '2024-01-04 16:35:08'}
+reading data
+{'numbers': 28001, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 8, 'available_bikes': 12, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.832495, 'lng': 4.848795}, 'last_update': '2024-01-04 16:31:25'}
+reading data
+{'numbers': 10075, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 12, 'available_bike_stands': 4, 'available_bikes': 8, 'address': 'Angle cours André Philip', 'status': 'OPEN', 'position': {'lat': 45.772277, 'lng': 4.865774}, 'last_update': '2024-01-04 16:39:21'}
+reading data
+{'numbers': 4006, 'contract_name': 'lyon', 'banking': False, 'bike_stands': 23, 'available_bike_stands': 4, 'available_bikes': 19, 'address': "Angle rue Anselme, face à l'IUFM", 'status': 'OPEN', 'position': {'lat': 45.773358, 'lng': 4.821234}, 'last_update': '2024-01-04 16:30:42'}
+reading data
+{'numbers': 6017, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 30, 'available_bike_stands': 27, 'available_bikes': 0, 'address': '', 'status': 'OPEN', 'position': {'lat': 45.764062, 'lng': 4.865802}, 'last_update': '2024-01-04 16:37:01'}
+reading data
+{'numbers': 2036, 'contract_name': 'lyon', 'banking': True, 'bike_stands': 30, 'available_bike_stands': 6, 'available_bikes': 24, 'address': '11 PLACE ANTONIN GOURJU', 'status': 'OPEN', 'position': {'lat': 45.759494, 'lng': 4.830161}, 'last_update': '2024-01-04 16:35:29'}
+reading data
+{'numbers': 115, 'contract_name': 'valence', 'banking': False, 'bike_stands': 16, 'available_bike_stands': 15, 'available_bikes': 1, 'address': 'Cataluña - Doctor Vicente Zaragozá', 'status': 'OPEN', 'position': {'lat': 39.4815301403857, 'lng': -0.352239033238509}, 'last_update': '2024-01-04 16:36:47'}
+reading data
+{'numbers': 208, 'contract_name': 'seville', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 9, 'available_bikes': 6, 'address': 'AAVENIDA DE GRECIA - Aprox. Avda de Italia', 'status': 'OPEN', 'position': {'lat': 37.3506563280755, 'lng': -5.98419015892254}, 'last_update': '2024-01-04 16:39:08'}
+reading data
+{'numbers': 168, 'contract_name': 'seville', 'banking': False, 'bike_stands': 18, 'available_bike_stands': 7, 'available_bikes': 11, 'address': 'AVENIDA RAMÓN Y CAJAL - Aprox. Avda de la Ciudad Jardín', 'status': 'OPEN', 'position': {'lat': 37.375135, 'lng': -5.96762}, 'last_update': '2024-01-04 16:39:30'}
+reading data
+{'numbers': 130, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 23, 'available_bike_stands': 10, 'available_bikes': 11, 'address': 'ROND POINT DU SOUVERAIN - BOULEVARD DU SOUVERAIN FACE / VORSTLAAN VOOR 207', 'status': 'OPEN', 'position': {'lat': 50.819448, 'lng': 4.429082}, 'last_update': '2024-01-04 16:39:19'}
+reading data
+{'numbers': 39, 'contract_name': 'bruxelles', 'banking': False, 'bike_stands': 25, 'available_bike_stands': 10, 'available_bikes': 15, 'address': 'HOTEL DES MONNAIES/MUNTHOTEL - BLD DE WATERLOO- WATERLOOLAAN 93/94/95/96/98', 'status': 'OPEN', 'position': {'lat': 50.834237, 'lng': 4.350732}, 'last_update': '2024-01-04 16:39:36'}
+reading data
+{'numbers': 188, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 14, 'available_bikes': 6, 'address': '121 AVENUE DE MURET', 'status': 'OPEN', 'position': {'lat': 43.584339, 'lng': 1.427597}, 'last_update': '2024-01-04 16:35:46'}
+reading data
+{'numbers': 7, 'contract_name': 'nantes', 'banking': True, 'bike_stands': 30, 'available_bike_stands': 17, 'available_bikes': 13, 'address': '2, allée Penthièvre', 'status': 'OPEN', 'position': {'lat': 47.2153313580104, 'lng': -1.55612612597517}, 'last_update': '2024-01-04 16:37:31'}
+reading data
+{'numbers': 118, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 17, 'available_bike_stands': 16, 'available_bikes': 1, 'address': 'PLACE DU BUSCA / FACE ECOLE JEAN JAURES', 'status': 'OPEN', 'position': {'lat': 43.588588, 'lng': 1.451003}, 'last_update': '2024-01-04 16:34:31'}
+reading data
+{'numbers': 215, 'contract_name': 'valence', 'banking': True, 'bike_stands': 15, 'available_bike_stands': 8, 'available_bikes': 7, 'address': 'Músico Ayllón - Francisco Dolz', 'status': 'OPEN', 'position': {'lat': 39.4656390724037, 'lng': -0.39683915840866}, 'last_update': '2024-01-04 16:36:15'}
+reading data
+{'numbers': 6, 'contract_name': 'mulhouse', 'banking': True, 'bike_stands': 18, 'available_bike_stands': 8, 'available_bikes': 10, 'address': 'Angle av de Colmar / av du President Kennedy devant Porte Jeune', 'status': 'OPEN', 'position': {'lat': 47.7500690513047, 'lng': 7.33871413913301}, 'last_update': '2024-01-04 16:32:49'}
+reading data
+{'numbers': 169, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 19, 'available_bikes': 1, 'address': 'AVENIDA RAMÓN Y CAJAL - Aprox. C/ Villegas Marmolejo', 'status': 'OPEN', 'position': {'lat': 37.376585, 'lng': -5.972616}, 'last_update': '2024-01-04 16:30:52'}
+reading data
+{'numbers': 178, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 20, 'available_bike_stands': 20, 'available_bikes': 0, 'address': 'FACE 100 AV YVES BRUNAUD', 'status': 'OPEN', 'position': {'lat': 43.619291, 'lng': 1.468681}, 'last_update': '2024-01-04 16:37:47'}
+reading data
+{'numbers': 27, 'contract_name': 'nantes', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 3, 'available_bikes': 12, 'address': "42, boulevard Gabriel Guist'Hau", 'status': 'OPEN', 'position': {'lat': 47.2179298163251, 'lng': -1.56917188330244}, 'last_update': '2024-01-04 16:39:04'}
+reading data
+{'numbers': 206, 'contract_name': 'seville', 'banking': False, 'bike_stands': 15, 'available_bike_stands': 5, 'available_bikes': 10, 'address': 'AVENIDA KANSAS CITY - Aprox. C/ Macedonia', 'status': 'OPEN', 'position': {'lat': 37.4029635484276, 'lng': -5.95821109780644}, 'last_update': '2024-01-04 16:36:50'}
+reading data
+{'numbers': 41, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 21, 'available_bike_stands': 18, 'available_bikes': 3, 'address': '1 RUE CHARLES CAMICHEL', 'status': 'OPEN', 'position': {'lat': 43.602708, 'lng': 1.454367}, 'last_update': '2024-01-04 16:36:41'}
+reading data
+{'numbers': 66, 'contract_name': 'seville', 'banking': False, 'bike_stands': 20, 'available_bike_stands': 15, 'available_bikes': 4, 'address': 'CALLE ARROYO - Aprox. Avda. José Laguillo', 'status': 'OPEN', 'position': {'lat': 37.3936255004888, 'lng': -5.98186917562097}, 'last_update': '2024-01-04 16:37:36'}
+reading data
+{'numbers': 90, 'contract_name': 'toulouse', 'banking': True, 'bike_stands': 25, 'available_bike_stands': 10, 'available_bikes': 15, 'address': '3B BD LASCROSSES', 'status': 'OPEN', 'position': {'lat': 43.611271, 'lng': 1.438093}, 'last_update': '2024-01-04 16:39:32'}
