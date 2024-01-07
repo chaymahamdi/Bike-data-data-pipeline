@@ -30,19 +30,15 @@ Before getting started, make sure you have the following technologies installed 
 3. Restart Elasticsearch and check status:
    ```bash
    $ sudo systemctl restart elasticsearch
-   ```bash
    $ sudo systemctl status elasticsearch
 4. Restart Kibana and check status:
    ```bash
    $ sudo systemctl restart kibana
-   ```bash
    $ sudo systemctl status kibana:
 6. Start the Kafka producer and consumer:
    ```bash
    $ python3 producer.py   # Start the Kafka producer
-   ```bash
    $ python3 consumer_elastic_kibana.py   # Start the consumer for Elasticsearch and Kibana
-   ```bash
    $ ./command.sh   # Start the Kafka consumer
 8. Check if data is storing in the Elasticsearch index "stations":
    Go to the Kibana sidebar.
