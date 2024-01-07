@@ -1,5 +1,4 @@
 # Streaming-bike_stations-project
-# Big Data Workflow: Streaming Bike Stations
 
 Welcome to our Big Data Streaming project! In this project, we utilize various technologies like Kafka, Spark, Elasticsearch, Hive, and Kibana to build a real-time streaming pipeline for bike stations data using the JCDecaux streaming API. Follow the steps below to set up and run the workflow.
 
