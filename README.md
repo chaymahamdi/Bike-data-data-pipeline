@@ -33,7 +33,7 @@ Before getting started, make sure you have the following technologies installed 
 4. Restart Kibana and check status:
    ```bash
    $ sudo systemctl restart kibana
-   $ sudo systemctl status kibana:
+   $ sudo systemctl status kibana
 6. Start the Kafka producer and consumer:
    ```bash
    $ python3 producer.py   # Start the Kafka producer
