@@ -1,0 +1,8 @@
+:: loading settings :: url = jar:file:/opt/spark/jars/ivy-2.5.1.jar!/org/apache/ivy/core/settings/ivysettings.xml
+Traceback (most recent call last):
+  File "/home/chayma/Documents/big data/projectBigData/consumer_hive.py", line 35, in <module>
+    spark.sql("CREATE DATABASE IF NOT EXISTS bikes_stations")
+  File "/opt/spark/python/lib/pyspark.zip/pyspark/sql/session.py", line 723, in sql
+  File "/opt/spark/python/lib/py4j-0.10.9.5-src.zip/py4j/java_gateway.py", line 1321, in __call__
+  File "/opt/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 117, in deco
+pyspark.sql.utils.AnalysisException: org.apache.hadoop.hive.ql.metadata.HiveException: MetaException(message:Unable to create database path file:/user/hive/warehouse/bikes_stations.db, failed to create database bikes_stations)
